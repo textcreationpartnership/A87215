@@ -1,0 +1,1396 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treaty of pacification. Or Conditions of peace between God and man. / By H.I.</title>
+            <author>Isaacson, Henry, 1581-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 54 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87215</idno>
+            <idno type="STC">Wing I1061</idno>
+            <idno type="STC">Thomason E1113_6</idno>
+            <idno type="STC">ESTC R202596</idno>
+            <idno type="EEBO-CITATION">99862824</idno>
+            <idno type="PROQUEST">99862824</idno>
+            <idno type="VID">115001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115001)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 249:E1113[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treaty of pacification. Or Conditions of peace between God and man. / By H.I.</title>
+                  <author>Isaacson, Henry, 1581-1654.</author>
+                  <author>Marshall, William, fl. 1617-1650, engraver.</author>
+               </titleStmt>
+               <extent>[14], 91, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Thral,</publisher>
+                  <pubPlace>1642. London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>H.I. = Henry Isaacson.</note>
+                  <note>The title page is engraved and signed: W.M. sculp:, i.e. William Marshall.</note>
+                  <note>Running title reads: A treaty of pacification between God and man.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>God --  Knowableness --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115001:1"/>
+            <figure>
+               <p>Miserere mei Deus. Flevit amarè</p>
+            </figure>
+            <p>A TREATY of PACIFICATION <hi>OR</hi> CONDITIONS of PEACE BETWEEN GOD AND MAN. 
+<q>
+                  <bibl>
+                     <hi>Ps:</hi> 51.17.</bibl>
+                  <p>
+                     <hi>A broken &amp; contrite Heart (ô God) thou wilt not deſpise.</hi>
+                  </p>
+               </q>
+            </p>
+            <p>
+               <hi>By H. J.</hi>
+            </p>
+            <p>1642.</p>
+            <p>London.</p>
+            <p>
+               <hi>Printed for R. Thral.</hi>
+            </p>
+            <p>
+               <hi>W. M. ſculp:</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115001:2"/>
+            <pb facs="tcp:115001:2"/>
+            <head>TO THE CHRISTIAN <hi>READER.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>N Multiloquio non deeſt pecca<g ref="char:EOLhyphen"/>tum.</hi>
+               <note place="margin">Prov. 10.19.</note> 
+               <hi>In the mul<g ref="char:EOLhyphen"/>titude of words there wanteth not ſinne,</hi> ſaid the <hi>Wiſeman</hi> long ſince: and what he ſaid of <hi>Tal<g ref="char:EOLhyphen"/>king,</hi> may we not apply to <hi>Prin<g ref="char:EOLhyphen"/>ting?</hi> If <hi>Mendacium</hi> (a Lye) be ſinne, as I trust none will deny, though it be <hi>officioſum</hi> or <hi>jocoſum,</hi> the officious or jeaſting Lye, then
+<pb facs="tcp:115001:3"/>we may without offence conclude, that (as ſome now licentiouſ<g ref="char:EOLhyphen"/>ly aſſume to themſelves) in much <hi>printing</hi> there wanteth not <hi>ſinne.</hi> So many (<hi>Bookes</hi> I am loath to call them) <hi>Pamphlets</hi> iſſue daily from the <hi>Preſſe,</hi> without Authority, nay point blanke a<g ref="char:EOLhyphen"/>gainſt Authority, and they ſo ſtuffed with untruths, as though the Authors thinke it lawfull <hi>to draw ſinne with cartropes.</hi>
+               <note place="margin">Eſa 5.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8.</note>
+            </p>
+            <p>Well, to this multitude of <hi>Bookes</hi> or <hi>Pamphlets</hi> (call them what you pleaſe) I have adventured to beare the retor<g ref="char:EOLhyphen"/>ting of that fault I found in others, and to adde one more to the number: as fitting for the time, and (I am ſure) of a more neceſſary and weighty im<g ref="char:EOLhyphen"/>port and conſequence, and in a more orderly way, then many of them.</p>
+            <pb facs="tcp:115001:3"/>
+            <p>The ſubject of it is <hi>Repen<g ref="char:EOLhyphen"/>tance,</hi> a harſh and unpleaſing thing, I confeſse to fleſh and bloud: but for all that, it is <hi>unum neceſſarium,</hi> one of the moſt neceſſary duties to be urged,<note place="margin">Luk. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and which condu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth moſt to our good at this time, eſpecially when the ſword not only hangeth over our heads, but hath begun to avenge the quarrell of the LORD in ſome part of this Land: and how ſoon it may be felt amongſt us and the other part of our Kingdome, we know not: And this, not the ſword of an Adverſary from with<g ref="char:EOLhyphen"/>out, but (which is a worſe judgement) from within, a<g ref="char:EOLhyphen"/>mongſt our ſelves, by Civill (or rather as S. <hi>Auguſtine</hi> calls it, uncivill) Warre and diſſen<g ref="char:EOLhyphen"/>tion. <hi>Mala quae quantò in<g ref="char:EOLhyphen"/>teriora ſunt, tantò miſeriora,</hi>
+               <pb facs="tcp:115001:4"/>Evills, are the more miſerable, by how much they grow the more inward, ſaith he.</p>
+            <p>If it were but the ſword from abroad, it were ſufficient to a<g ref="char:EOLhyphen"/>wake and rouze us from the dead ſleepe of ſinne, wherein we have ſo long lyen, and to ſtirre us up to this duty: there is as well Danger, as in<g ref="char:EOLhyphen"/>citement enough in that. For the Heathen Orator ſaith of it, <hi>non ſolum adventus Belli,</hi>
+               <note place="margin">Gid Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. Manil.</note> &amp;c. Not only Warre it ſelfe when it comes, but the very feare of it, brings calamity enough with it: For when the E<g ref="char:EOLhyphen"/>nemies Forces are not farre off (though they enter not at all, yet) people forſake their Cattell, the Husbandman de<g ref="char:EOLhyphen"/>ſerts his Tillage, and the Mer<g ref="char:EOLhyphen"/>chant his commerce and Traf<g ref="char:EOLhyphen"/>fique.</p>
+            <pb facs="tcp:115001:4"/>
+            <p>But come we to conſider Ci<g ref="char:EOLhyphen"/>vill and domeſtique Warre, and wee ſhall find, hee calls that, <hi>Bellum perniciociſſimum,</hi> the moſt pernecious Warre of all other. Our Saviour tells us in few words the effects of it.<note place="margin">Mar. 3.34.</note> If a <hi>Kingdome be divi<g ref="char:EOLhyphen"/>ded within it ſelfe, that King<g ref="char:EOLhyphen"/>dome cannot ſtand:</hi> diſſention will bring it to utter ruine, if not ſpeedily prevented. For where Civill Warre rageth, there are not only that <hi>ag<g ref="char:EOLhyphen"/>men malorum,</hi> troup of mi<g ref="char:EOLhyphen"/>ſeries attending it, that follow a Warre which comes from a<g ref="char:EOLhyphen"/>broad, but farre more. For be<g ref="char:EOLhyphen"/>ſides (which is common to the other) as <hi>Auguſtine</hi> deſcribes them, <hi>Rapti Virgines,</hi>
+               <note place="margin">De Ci<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Dei.</note> &amp;c. Virgins are raviſhed, and all modeſty violated, Children ſnatcht from the armes of their Parents,
+<pb facs="tcp:115001:5"/>Matrons put to whatſoever the Souldier pleaſeth, Churches ſpoi<g ref="char:EOLhyphen"/>led, Houſes plundered, ſlaugh<g ref="char:EOLhyphen"/>ter, burning, and all havocke committed, and the end and concluſion of it is, that every place is filled with bloud, la<g ref="char:EOLhyphen"/>mentations, and dead carcaſes. <hi>Perit cum divite pauper,</hi> the rich, and poore, both periſh. To theſe we may adde one thing, which the other is free from: that in a Civill Warre, the Father fights againſt the Sonne, and perhaps kills him, and the Sonne doth the like to the Fa<g ref="char:EOLhyphen"/>ther, the Servant to the Ma<g ref="char:EOLhyphen"/>ſter, nor have Friends or Kinſ<g ref="char:EOLhyphen"/>men any reſpect to friendſhip or kindred. Hee that conſiders theſe evills which accompany VVarre, and more eſpecially Ci<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l VVarre, ſo great, and hor<g ref="char:EOLhyphen"/>rid; must needs confeſſe VVarre
+<pb facs="tcp:115001:5"/>to be <hi>flagellum Dei,</hi> the ſcourge of God upon a Land: but he that thinks not upon it without grief and horrour of mind,<note place="margin">De Civ: Dei</note> is more miſera<g ref="char:EOLhyphen"/>ble (ſaith <hi>Auguſtine</hi>) becauſe hee hath loſt the ſenſe of a man. <hi>Hor<g ref="char:EOLhyphen"/>ret animus</hi> (ſaid Ierome in the like caſe) <hi>temporum noſtrorum rui<g ref="char:EOLhyphen"/>nas proſequi.</hi> It drives my mind into horrour, to proſecute and de<g ref="char:EOLhyphen"/>clare the miſeries of our times: and <hi>foelix qui haec non vidit, foelix qui haec nonaudit</hi> (ſaith he) happy is he, that neither ſees, nor heares any of theſe things.</p>
+            <p>And indeed, the danger be<g ref="char:EOLhyphen"/>ing ſo ſenſible, and the cauſe (our horrid ſinnes) being ſo palpable, who is ſo ſtupid, that will not apply himſelfe to the cure, which is no way to be ef<g ref="char:EOLhyphen"/>fected, but by true and hearty repentance: We ſhall never re<g ref="char:EOLhyphen"/>move this heavy judgement, but
+<pb facs="tcp:115001:6"/>by accepting theſe <hi>Conditions of Peace,</hi> now offered to us by GOD. <hi>Regnum ruit, &amp; ta<g ref="char:EOLhyphen"/>men cervix noſtra non flecti<g ref="char:EOLhyphen"/>tur?</hi> Is the kingdome in danger of ruine, and yet wee continue ſtiffe-necked? <hi>Offenſum ſenti<g ref="char:EOLhyphen"/>mus Deum, nec placamus?</hi> Doe we perceive that God is of<g ref="char:EOLhyphen"/>fended with us, and ſhall we not goe about to pacifie him? God for<g ref="char:EOLhyphen"/>bid.</p>
+            <p>If we do not, deſtruction and con<g ref="char:EOLhyphen"/>fuſion muſt neceſſarily and ſpeedily follow. God hath ſpared and expect<g ref="char:EOLhyphen"/>ed us long, to ſhew mercy upon us; if we turne not to him, he will at laſt <hi>powre the full viols of his wrath</hi> upon us;<note place="margin">Ap<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 21.9.</note> his ſeven plagues mentioned in the Revela<g ref="char:EOLhyphen"/>tion. <hi>Quanquam ſera <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amen certa Numinis vindicta.</hi> Divine vengeance is ſure, though it be ſlow. The Heathen man could
+<pb facs="tcp:115001:6"/>ſay, <hi>Lento gradu ad vindictam ſui divina procellitira,</hi>
+               <note place="margin">Val: Max.</note> 
+               <hi>tardita<g ref="char:EOLhyphen"/>temque ſupplicij gravitate com<g ref="char:EOLhyphen"/>penſat.</hi> GODS anger ſtrikes ſlowly in revenge of our ſinnes a<g ref="char:EOLhyphen"/>gainſt him, but it remompenceth the ſlowneſſe of it, with the grie<g ref="char:EOLhyphen"/>vouſneſſe of the puniſhment. And this fals upon us, but as wee de<g ref="char:EOLhyphen"/>ſerve: For, <hi>ſubitò tollitur qui diu tolleratur.</hi> Hee, and that Land too, will ſuddenly be deſtroy<g ref="char:EOLhyphen"/>ed, that makes no good uſe of GODS long forbearance and ex<g ref="char:EOLhyphen"/>pectance.</p>
+            <p>It is reported by <hi>Joſephus,</hi> that (beſides many prodigies which appeared in <hi>Jeruſalem,</hi> be<g ref="char:EOLhyphen"/>fore the last deſtruction of it) one <hi>Jeſus</hi> ſonne of <hi>Ananias</hi> a Country fellow,<note place="margin">D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bell: Jud: <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7</hi> c. <hi>12.</hi>
+               </note> for a long ſpace (even before the warre of <hi>Titus</hi>) went up and downe the ſtreets, crying, <hi>Vae Jeroſolymis,</hi> woe to
+<pb facs="tcp:115001:7"/>
+               <hi>Jeruſalem;</hi> but he was ſcorned, yea and puniſhed as a <hi>Boutefeau</hi> for it; you know what became of that City. We find that the old world had a <hi>120.</hi> yeares, given for Repentance, and it was neglected, but what followed? <hi>The floud drowned them all,</hi>
+               <note place="margin">Gen. 6.</note> 
+               <hi>except</hi> No<g ref="char:EOLhyphen"/>ah, <hi>the Preacher of Repentance, and his Family.</hi> And we reade that <hi>Jonas</hi> cryed in the ſtreets of <hi>Nineveh,</hi>
+               <note place="margin">Ion. 3.4.</note> 
+               <hi>yet 40. dayes and</hi> Ni<g ref="char:EOLhyphen"/>neveh <hi>ſhall be deſtroyed.</hi> And the Text ſaith,<note place="margin">7.</note> 
+               <hi>The people be<g ref="char:EOLhyphen"/>leeved God, and proclaimed a Faſt,</hi> &amp;c. <hi>And the King and they repented in ſack-cloth and aſhes.</hi> And yee know how they ſped.</p>
+            <p>God hath given us many <hi>40.</hi> dayes, <hi>Dedi eis tempus ad poe<g ref="char:EOLhyphen"/>nitentiam,</hi> he hath afforded us a time to repent, we know not how long that time may laſt. Let us
+<pb facs="tcp:115001:7"/>no longer <hi>deſpiſe the riches of his goodneſſe, and forbearance,</hi>
+               <note place="margin">Rom. 2.4.</note> 
+               <hi>and long-ſuffering, not know<g ref="char:EOLhyphen"/>ing that the goodneſſe of God leadeth</hi> (or ſhould leade) <hi>us to Repentance.</hi> But take heed, that (having deſtruction as it were, before our faces) wee con<g ref="char:EOLhyphen"/>temne not ſtall Gods counſell,<note place="margin">Eze. 18.30.</note> 
+               <hi>Re<g ref="char:EOLhyphen"/>pent and turne every one from his vvicked vvayes, that iniqui<g ref="char:EOLhyphen"/>ty be not our deſtruction.</hi> Wee ſee that the fooliſh <hi>Virgins</hi> miſsing their time,<note place="margin">Mat. 25.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> had no anſwer, but <hi>ne<g ref="char:EOLhyphen"/>ſcio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>os, I know you not,</hi> a fear<g ref="char:EOLhyphen"/>full anſwer it was: Let us therfore lay hold of the time, and <hi>repent</hi> be<g ref="char:EOLhyphen"/>fore it be too late, and our time out; and not onely doe this our ſelves, but (according to that of the A<g ref="char:EOLhyphen"/>postle) <hi>exhort one another dai<g ref="char:EOLhyphen"/>ly, vvhile it is called to day,</hi>
+               <note place="margin">Heb. 3.13.</note> 
+               <hi>leaſt any of us be hardned, through the deceitfullneſſe of
+<pb facs="tcp:115001:8"/>ſinne:</hi>
+               <note place="margin">Luc. 13.3.</note> and ſo (as <hi>Chriſt</hi> fore-told the <hi>Jewes</hi>) <hi>vve all periſh.</hi> God of his infinite goodneſſe give us all grace, to lay this ſpeedily to heart, that wee may avert this heavy judgement from us, and ſerve him hence forward in a true fil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all feare, in holineſſe and righ<g ref="char:EOLhyphen"/>teouſneſſe, all the dayes of our life.</p>
+            <p>
+               <hi>Amen.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115001:8"/>
+            <head>A TREATY OF PACIFICATION <hi>OR</hi> Conditions of PEACE be<g ref="char:EOLhyphen"/>tween God and man.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Here is an appointed time to all things,</hi>
+               <note place="margin">Eccl. 3.11</note> ſaith the <hi>Preacher,</hi> and a little after (comming to particulars) he addeth,<note place="margin">3.</note> 
+               <hi>There is a time to ſlay,</hi>
+               <note place="margin">4.</note> 
+               <hi>and a time to heale. A time to weepe, and a time to laugh or rejoyce.</hi>
+            </p>
+            <p>Ther's nothing ſo ſure, nothing ſo infallible, as that which is recorded in the booke of God. Gods word never failes, <hi>not one jot or tittle of it.</hi>
+               <note place="margin">Mat <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 18. Luc. 21.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <hi>Heaven and Earth ſhall paſſe away,
+<pb n="2" facs="tcp:115001:9"/>but not any of Gods words ſhall paſſe a<g ref="char:EOLhyphen"/>way.</hi> For may we not truly ſay, that theſe words of the <hi>Preachers</hi> are, (as Chriſt ſaid upon another Text) <hi>this day fullfilled in our edres?</hi>
+               <note place="margin">Zuc. 4 21.</note> May we not now ſay, and that truely now, there is a <hi>time to ſlay?</hi> and ſo conſe<g ref="char:EOLhyphen"/>quently, <hi>a time to weepe and mourne?</hi> I would to God we could not.</p>
+            <p>There was a time,<note place="margin">Mat 26, 52.</note> when Chriſt ſaid to St. <hi>Peter, Put up thy Sword into his place</hi> (the <hi>ſheath,</hi>
+               <note place="margin">18.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> as St. <hi>John</hi> hath it) but I feare we are fallen in<g ref="char:EOLhyphen"/>to the time, of which God fore-told the <hi>Iſraelites,</hi> wherein he threatneth to <hi>ſend a Sword upon them, that ſhould avenge the quarrell of his Co<g ref="char:EOLhyphen"/>venant.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 26.25.</note>
+            </p>
+            <p>There was a time alſo of <hi>rejoycing,</hi> and we had it long, could we have made good uſe of it. For what Nati<g ref="char:EOLhyphen"/>on under the <hi>Sun</hi> hath for theſe 100. yeares (almoſt) had ſuch a time of joy? The great bleſſing of the <hi>Goſpell</hi> hath bin plentifully and peaceably continued amongſt us, and all tem<g ref="char:EOLhyphen"/>porall bleſſings in abundance have bin ſhowred upon us. We have bin
+<pb n="3" facs="tcp:115001:9"/>bleſt with a continued peace, as no Nation hath enjoyed the like, togi<g ref="char:EOLhyphen"/>ther with ſuch plenty, (and what not?) as hath cauſed us to be malig<g ref="char:EOLhyphen"/>ned by our enemies, and renowned throughout the whole world. Inſo<g ref="char:EOLhyphen"/>much as we may truly aske. What could God have done more for a Na<g ref="char:EOLhyphen"/>tion or people, then he hath done for us?</p>
+            <p>How comes it then, that our <hi>re<g ref="char:EOLhyphen"/>ioycing</hi> is taken from us, and that the time of <hi>ſlaying,</hi> of <hi>mourning,</hi> and <hi>wee<g ref="char:EOLhyphen"/>ping</hi> is now fallen upon us? The rea<g ref="char:EOLhyphen"/>ſon certainly may eaſily be given. Even the ſame that brought the <hi>Jews</hi> into the ſame eſtate. Our diſobedi<g ref="char:EOLhyphen"/>ence to his commands, our deſpiſing his Lawes and Ordinances, and our ingratitude and unthankfullneſſe for all his bleſſings. Theſe are the cau<g ref="char:EOLhyphen"/>ſes, by which we have neglected and ſo loſt our time of rejoycing, and for which, God hath begun to take up his time of <hi>ſlaying,</hi>
+               <note place="margin">Amos 5.16.</note> and to ſend ther<g ref="char:EOLhyphen"/>by <hi>mourning</hi> and <hi>wayling into our ſtreets</hi> and habitations, and <hi>to make us ſay in all our high-wayes, Alas, A<g ref="char:EOLhyphen"/>las:
+<pb n="4" facs="tcp:115001:10"/>and to call the husbandman to la<g ref="char:EOLhyphen"/>mentation;</hi>
+               <note place="margin">Ezec 14 17.</note> 
+               <hi>and ſuch as can mourne to mourning.</hi> For hath he not ſaid, <hi>Sword goe through the Land?</hi> And this is come upon us, becauſe by our forſaking God, he hath forſaken us, according to that of <hi>Auguſtine,</hi>
+               <note place="margin">D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verb. Do<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </note> 
+               <hi>Ma<g ref="char:EOLhyphen"/>lum eſt nobis de nobis, &amp; quia dimiſimus te, dimiſiſti nos nobis.</hi> O Lord, evill is come upon us, from our ſelves, and becauſe we have forſaken thee, thou haſt forſaken us, and left us to our ſelves.</p>
+            <p>Being in this heavy condition, and our ſinnes daily crying f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r further vengeance againſt us. What are we to doe, to redeeme our miſ-ſpent time, and to regaine Gods favour? Surely there is no other way, no o<g ref="char:EOLhyphen"/>ther meanes left, but to turne unto him by hearty <hi>Repentance,</hi> and by un<g ref="char:EOLhyphen"/>fained and hearty <hi>Humiliation,</hi> to en<g ref="char:EOLhyphen"/>deavour to appeaſe his wrath, that now is gone out againſt us.</p>
+            <p>There are divers motives to ſtir us up to this duty, as</p>
+            <p n="1">1. <hi>Naturae vox,</hi> the very dictate of Nature, for it is a moſt reaſonable
+<pb n="5" facs="tcp:115001:10"/>thing, even in nature: that they which have done amiſſe, ſhould re<g ref="char:EOLhyphen"/>pent them of the evill they have com<g ref="char:EOLhyphen"/>mitted.</p>
+            <p n="2">2. <hi>Tempus ad hoc impenſum.</hi> The long time that God hath given us to repent.<note place="margin">Apoc. 2.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Dedi ei tempus ad poenitenti<g ref="char:EOLhyphen"/>am.</hi> I have given her a time to re<g ref="char:EOLhyphen"/>pent, ſaith God. And if God hath given it, and in it expected our re<g ref="char:EOLhyphen"/>pentance, why ſhould we be ſo ſtiff<g ref="char:EOLhyphen"/>necked and unthankfull, as not to ac<g ref="char:EOLhyphen"/>cept it?</p>
+            <p n="3">3. <hi>Documenta ſapientium.</hi> The Counſell of thoſe that were wiſe in their Generation.<note place="margin">Jer. 26 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Ezec. 14.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Act 3 19.</note> The Prophets. <hi>Repent and turne your ſelves.</hi> And S. <hi>Peter, Repent and turn, that your ſinnes may be put away.</hi> S. <hi>John. Be zealous therfore, and repent.</hi>
+               <note place="margin">Apo. 3 19.</note>
+            </p>
+            <p n="4">4. <hi>Praxis Sanctorum,</hi> the practiſe and examples of the Saints of God. Of holy Job. <hi>Therefore I abhorre my ſelfe and repent in duſt and aſhes.</hi>
+               <note place="margin">Iob 42 6.</note> K. <hi>David</hi> upon Gods viſitation, for his unadviſednumbring of the people.<note place="margin">1 Sam. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <hi>His heart ſmote him, and he repented of his fooliſh. act.</hi>
+               <note place="margin">I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oel 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> In a time of fa<g ref="char:EOLhyphen"/>mine
+<pb n="6" facs="tcp:115001:11"/>
+               <hi>Joel</hi> cauſed a publike Repen<g ref="char:EOLhyphen"/>tance.<note place="margin">2 Chron 20.</note> In a time of warre, <hi>Jehoſha<g ref="char:EOLhyphen"/>phat</hi> and his people <hi>repented.</hi> In a time of publick calamity, and Gods judgements threatned, we finde <hi>Eſther, Ahab</hi> and the <hi>Ninivites</hi> do<g ref="char:EOLhyphen"/>ing the like.<note place="margin">E<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h. 4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6. 1 Reg 21.27 Ion. 2.5. 1 Cor. 10, 11.</note> All which are recorded <hi>for examples to us, upon whom the ends of the world are come.</hi>
+            </p>
+            <p n="5">5. <hi>Praeſens commodum,</hi> The pre<g ref="char:EOLhyphen"/>ſent benefit we may reape by it, as the averting of Gods diſpleaſure, and the returning into his favour.<note place="margin">Ezek, 18.</note> 
+               <hi>At what time ſoever a Sinner repenteth of his ſinne from the bottome of his heart, I will put away all his wickedneſſe,</hi> &amp;c. If we <hi>repent,</hi> God will repent him of the <hi>Plague,</hi>
+               <note place="margin">Ier. 26.13.</note> he hath pronoun<g ref="char:EOLhyphen"/>ced againſt us.</p>
+            <p n="6">6. <hi>Futurum praemium.</hi> Not only a preſent benefit will be gotten by it, but a <hi>reward,</hi>
+               <note place="margin">Ezec 18 2 Cor. 7.10</note> 
+               <hi>which will continue for ever, even the remiſſion of ſinnes, and ſalvation of our ſoules, by the merits of</hi> Jeſus Chriſt.</p>
+            <p n="7">7. <hi>Incommoda impoenitentium.</hi> The diſcommodities and dangers that fol<g ref="char:EOLhyphen"/>low the impenitent, and they are ma<g ref="char:EOLhyphen"/>ny.</p>
+            <pb n="7" facs="tcp:115001:11"/>
+            <p n="1">1. He looſeth the grace of God,<note place="margin">Rom. 2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>by deſpiſing the riches of his bountiful<g ref="char:EOLhyphen"/>neſſe and patience, and long-ſuffering, which leadeth him to Repentance.</hi>
+            </p>
+            <p n="2">2. He runnes head-long into mi<g ref="char:EOLhyphen"/>ſery. We ſee an example of it in <hi>Manaſſes</hi> and his people;<note place="margin">2 Chr. 33.10.11.</note> who (be<g ref="char:EOLhyphen"/>ing great Idolaters and called upon by the Prophets, yet they regarding not, nor repenting) were carried into captivity.</p>
+            <p n="3">3. And not only temporall miſe<g ref="char:EOLhyphen"/>ries befall them, but (which is farre worſe) ſpirituall alſo are threatned againſt them. God ſaith to the Church of <hi>Epheſus,</hi>
+               <note place="margin">Apec. 2.5.</note> 
+               <hi>Remember from whence thou art fallen, and repent, and doe thy firſt workes: for elſe I will come againſt thee ſhortly, and will re<g ref="char:EOLhyphen"/>move the candle-ſtick out of his place, ex<g ref="char:EOLhyphen"/>cept thou amend.</hi>
+            </p>
+            <p n="4">4. Laſtly, endleſſe torments are denounced againſt them. The <hi>Baptiſt</hi> cals the <hi>Jews, a Generation of Vipers,</hi>
+               <note place="margin">Mat 3.8.</note> and tels them of a <hi>vengeance to come;</hi> and our Saviour tels them,<note place="margin">Luc. 3.3.</note> 
+               <hi>unleſſe they repent they ſhall periſh.</hi> And the Apoſtle ſaith, that they that are ſo
+<pb n="8" facs="tcp:115001:12"/>hard hearted, that they cannot re<g ref="char:EOLhyphen"/>pent,<note place="margin">Rom. 2.5.</note> 
+               <hi>heap up to themſelves wrath, a<g ref="char:EOLhyphen"/>gainſt the day of wrath.</hi>
+            </p>
+            <p>And the reaſon for all this <hi>Chryſo<g ref="char:EOLhyphen"/>ſtome</hi> gives. God is nothing ſo much diſpleaſed at the ſinnes we commit, as that (when his hand is over us for them) wee refuſe to repent,<note place="margin">
+                  <hi>In</hi> Mat.</note> and grieve for the ſins we have commit<g ref="char:EOLhyphen"/>ted.</p>
+            <p>
+               <hi>Repentance</hi> then is the meanes, and the only meanes preſcribed by God himſelf,<note place="margin">Iſid. de ſum. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou.</note> to avert his anger from us. <hi>Poenitentia eſt medicamentum vulneris, ſpes ſalutis, per quam Deus ad miſe<g ref="char:EOLhyphen"/>rieordiam provocatur.</hi> Repentance is the ſalve for the wound of our ſinnes, and the hope of recovery, by which God is provoked to mer<g ref="char:EOLhyphen"/>cy.</p>
+            <p>It had bin farre better for us, and more acceptable to God, <hi>that his good<g ref="char:EOLhyphen"/>neſſe had led us to Repentance:</hi> but ſeeing that we have bin ſo unhappy,<note place="margin">Rom. 2.4.</note> as not to ſtand, or keep the right way which God hath ſet us in, and ther<g ref="char:EOLhyphen"/>by incurred his heavy diſpleaſure; let us not be more miſerable, in not
+<pb n="9" facs="tcp:115001:12"/>riſing, and turning to it againe. We have all gone aſtray from God, <hi>pec<g ref="char:EOLhyphen"/>cando,</hi> by our ſinnes, and diſpleaſed him, let us returne to him <hi>poenitendo,</hi> by repentance, and pacifie him. He hath ſhewed his goodneſſe to us wretched ſinners, by divers mer<g ref="char:EOLhyphen"/>cies.</p>
+            <p n="1">1. By exhorting us to Repen<g ref="char:EOLhyphen"/>tance.<note place="margin">Cant. 6.12. Ier 7.13.</note> 
+               <hi>Revertere, revertere Shuna<g ref="char:EOLhyphen"/>mitis, Returne, Returne ô Shunamite. Riſing up early, and ſpeaking to us,</hi> to turne to him.</p>
+            <p n="2">2. By giving us time and oppor<g ref="char:EOLhyphen"/>tunity to <hi>repent.</hi>
+               <note place="margin">Apoc. 2.21.</note>
+            </p>
+            <p n="3">3. By waiting upon us, to ſhew mercy to us,<note place="margin">Eſa, 30.18.</note> if perhaps we would repent.</p>
+            <p n="4">4. By preſerving us in the meane time,<note place="margin">Pſ 116.8.</note> from falling into worſe ſinnes.</p>
+            <p n="5">5. By enlightning our hearts,<note place="margin">2 Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 4.16.</note> to find the way to repentance.</p>
+            <p n="6">6. By his promiſe to receive us graciouſly, if we repent. <hi>They ſay if a man put away his wife,</hi>
+               <note place="margin">Ier. 3.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> &amp;c.</p>
+            <p>But ſeeing we have deſpiſed the ri<g ref="char:EOLhyphen"/>ches
+<pb n="10" facs="tcp:115001:13"/>of his <hi>mercy</hi> and <hi>goodneſſe,</hi>
+               <note place="margin">Rom. 2.4.</note> and that all the meanes he hath uſed, hath wrought no good effects in us,<note place="margin">Pſ. 7.12.</note> He <hi>hath now whet his Sword, bent his bow, and made it ready.</hi> We begin to feele his indignation, the time of ſlaying is begun, the wrath of the Lord is kindled. Let us not be worſe conditioned then the <hi>Jewes, who</hi> cum occideret,<note place="margin">Pſ. 78 34.</note> quaerebant eum, <hi>when he ſlew them, they ſonght him, and returned, and ſought God early.</hi> Let it prove true with us, which the Wiſe-man did ſee to be true in his time,<note place="margin">Pro. 15.32.</note> that <hi>vexatio dat intellectum,</hi> affliction brings a man to the true underſtanding of his miſerable con<g ref="char:EOLhyphen"/>dition.<note place="margin">Mor.</note> 
+               <hi>Gregory</hi> ſaith, <hi>Aurem cordis tribulatio aperit, quam ſepe proſperi<g ref="char:EOLhyphen"/>tas hujus mundi claudit.</hi> Tribulati<g ref="char:EOLhyphen"/>on opens the ear of the heart, which is oft-times cloſed by the proſperity of this world. Let our underſtan<g ref="char:EOLhyphen"/>ding and our hearts be cleare, to ap<g ref="char:EOLhyphen"/>prehend the miſery we are neare to; and then <hi>cum occideret</hi> may be ſtaid, before we be all <hi>occiſi.</hi> There is great danger in repentance delayed.
+<pb n="11" facs="tcp:115001:13"/>We muſt follow K. <hi>Davids</hi> example that (upon the death of 70000 men ſlaine for his ſinne) preſently repen<g ref="char:EOLhyphen"/>ted.<note place="margin">2 Sam. 14.</note> If his repentance had ſtayed but few dayes, and God had ſlaine the people, after the firſt dayes pro<g ref="char:EOLhyphen"/>portion, there would but few of thoſe many that were numbred have bin left alive. For ought I ſee, it may be our owne caſe, and therefore let us not deferre our repentance, but ſpeedily goe to <hi>the throne of grace,</hi>
+               <note place="margin">Heb. 4.16.</note> 
+               <hi>that wee may receive mercy, and finde grace, to helpe in the time of need.</hi>
+            </p>
+            <p>We ſee then, that there is a neceſſi<g ref="char:EOLhyphen"/>ty of Repentance. Let us now con<g ref="char:EOLhyphen"/>ſider what Repentance is. This is taken in divers ſenſes and ſignifica<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="1">1. It is ſo called, of thoſe, that are grieved for the loſſe of ſome tempo<g ref="char:EOLhyphen"/>rall thing, which was formerly plea<g ref="char:EOLhyphen"/>ſing and delightfull to them. But this the Apoſtle calleth <hi>worldly ſor<g ref="char:EOLhyphen"/>row,</hi> and tels us,<note place="margin">2 Cor. 7.10.</note> that it bringeth death.</p>
+            <p n="2">2. Secondly, it is ſo termed, of
+<pb n="12" facs="tcp:115001:14"/>thoſe, that conceive ſorrow and griefe for ſinne committed, which was formerly pleaſant to them, but their griefe is not, in reſpect that they have offended God, but in re<g ref="char:EOLhyphen"/>gard of ſome ill, that befals them for it.</p>
+            <p>Laſtly, it is ſo called of thoſe, that not only grieve meerly for ſin com<g ref="char:EOLhyphen"/>mitted, and purpoſe to amend their lives for the future; but are truly ſorrowfull, in reſpect that by their ſinning, they have offended the divine Majeſty.</p>
+            <p>And there is great difference in theſe kinds of Repentance, for the firſt is wicked, the ſecond but the effects of a troubled mind, and ther<g ref="char:EOLhyphen"/>fore not right; but the laſt is good, and the repentance pleaſing and ac<g ref="char:EOLhyphen"/>ceptable to God.</p>
+            <p>There are alſo divers other defini<g ref="char:EOLhyphen"/>tions of Repentance, as</p>
+            <p n="1">1. <hi>Poenitentia eſt virtus, qua com<g ref="char:EOLhyphen"/>miſſa mala plangimus &amp; odimus, cum emendationis propoſito.</hi> It is a vertue, by which we bewayle and hate our ſins committed, with a purpoſe to a<g ref="char:EOLhyphen"/>mend our lives.</p>
+            <pb n="13" facs="tcp:115001:14"/>
+            <p n="2">2. <hi>Poenitentia eſt dolor cordis &amp; animae pro malis,</hi>
+               <note place="margin">Ambr.</note> 
+               <hi>qui quiſquam commi<g ref="char:EOLhyphen"/>ſit.</hi> It is a ſorrow of heart and ſoule, for the ſinnes a man com<g ref="char:EOLhyphen"/>mits.</p>
+            <p n="3">3. <hi>Poenitentia eſt peccata non com<g ref="char:EOLhyphen"/>mittere, &amp; commiſſa deflere.</hi> It is,<note place="margin">Aug.</note> not to commit ſin for the future, and to bewaile ſins paſt.</p>
+            <p n="4">4. But theſe are all ſhort of a true Repentance, for that is a corrective act of Juſtice, begetting in us a de<g ref="char:EOLhyphen"/>teſtation of ſins already committed, with ſorrow and indignation againſt our ſelves for it, eſpecially in regard we have thereby offended God, to<g ref="char:EOLhyphen"/>gether with a ſetled reſolution and determination, to reforme the evill cuſtome of our lives: And this is wrought in us chiefly, by theſe meanes.</p>
+            <p n="1">1. Firſt by the grace of God con<g ref="char:EOLhyphen"/>verting our hearts to him,<note place="margin">Tar. 5.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Turn us O Lord</hi> (ſaith the Prophet) <hi>unto thee, and we ſhall be turned.</hi>
+            </p>
+            <p n="2">2. Being enlightned by his grace, wee apply our minds by faith to him.<note place="margin">Heb. 11.6</note> 
+               <hi>For he that commeth
+<pb n="14" facs="tcp:115001:15"/>to God, muſt beleeve that God is.</hi>
+            </p>
+            <p n="3">3. Being ſtricken with the feare of puniſhment for our ſinnes, wee with-draw our minds from them; and cry with holy <hi>Job,</hi>
+               <note place="margin">Iob 7.10.</note> 
+               <hi>I have ſinned, what ſhall I do, O thou preſerver of men?</hi>
+            </p>
+            <p n="4">4. Being raiſed by hope, of ob<g ref="char:EOLhyphen"/>taining mercy from God, for the ſinnes we have committed, we de<g ref="char:EOLhyphen"/>termine to amend our lives for the time to come. <hi>Bonum eſt mihi, &amp;c.</hi> ſaith the <hi>Pſalmiſt.</hi>
+               <note place="margin">Pſ 73.27.</note> 
+               <hi>It is good for me to hold me faſt by God, and to put my truſt in the Lord God.</hi> As we hope in God for remiſſion, ſo we muſt reſolve to cleave to him, by keeping his laws. <hi>Gregory</hi> ſaith.<note place="margin">Mer.</note> 
+               <hi>De ſpe incaſſum prae<g ref="char:EOLhyphen"/>fumit, qui timere Deum in operibus ſuis temnit.</hi> He preſumes in vain upon hope, that neglects to fear God in his actions.</p>
+            <p n="5">5. Laſtly, love (enflaming our hearts) begets a fil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all and ingenu<g ref="char:EOLhyphen"/>ous feare, by which we are very care<g ref="char:EOLhyphen"/>full not to offend Gods Majeſty any more, and a boldneſſe to im<g ref="char:EOLhyphen"/>plore his fatherly goodneſſe, in for<g ref="char:EOLhyphen"/>giving
+<pb n="15" facs="tcp:115001:15"/>that which is paſt.</p>
+            <p>Now Repentance (being a medi<g ref="char:EOLhyphen"/>cine for a ſicke ſoule, and a ſalve for a wounded conſcience) hath many in<g ref="char:EOLhyphen"/>gredients to make it right, according to divine art.</p>
+            <p n="1">1. The firſt is faith.<note place="margin">Rom. 14.23. Heb. 11.6.</note> 
+               <hi>For whatſoe<g ref="char:EOLhyphen"/>ver is not of Faith is ſinne;</hi> and whoſoever intendeth to come to God by repentance, muſt believe firſt, that he is God, and ſecondly that he is a mercifull Father, willing to receive to grace, all ſuch as ſhall unfainedly turne to him. All the o<g ref="char:EOLhyphen"/>ther ingredients are ſtrengthned by this vertue.</p>
+            <p n="2">2. Another is Confeſſion and ac<g ref="char:EOLhyphen"/>knowledgement of our manifold ſins to God. For as <hi>Ambroſe</hi> ſaith well,<note place="margin">Lib. de Parae<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c. 14.</note> 
+               <hi>Non poteſt quis inſtificari à pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cato, niſi confeſſus fuerit peccatum.</hi> No man ſhall ever be juſtified and clean<g ref="char:EOLhyphen"/>ſed from his ſinne, that doth not make confeſſion of them. <hi>Solomon</hi> ſaith,<note place="margin">Pro. 28.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>He that hideth his ſinnes ſhall not prosper, but he that confeſſeth and forſake<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h them, ſhall have mercy. Da<g ref="char:EOLhyphen"/>vid</hi> found this by experience, and
+<pb n="16" facs="tcp:115001:16"/>acknowledged it,<note place="margin">Pſ. 32.6.</note> 
+               <hi>I ſaid I will con<g ref="char:EOLhyphen"/>feſſe my ſinnes unto the Lord, and ſo thou forgaveſt the wickedneſſe of my ſinne.</hi> And therefore the people in the time of <hi>Nehemiah,</hi>
+               <note place="margin">Neh. 9.2.</note> when they re<g ref="char:EOLhyphen"/>pented, <hi>confeſſed their ſinnes.</hi> So did <hi>Daniel.</hi>
+               <note place="margin">Dan, 9.4.</note> After S. <hi>Iohn Baptiſt</hi> had preached Repentance,<note place="margin">Mat 3.6.</note> 
+               <hi>Divers of his auditours same and were baptized, confeſſing their ſinnes.</hi> And S. <hi>Iohn</hi> tels us, <hi>If we confeſſe our ſinnes, God is faithfull and iuſt, to forgive us our ſins, and to cleanſe us from all unrigh<g ref="char:EOLhyphen"/>teouſneſſe.</hi>
+               <note place="margin">3 Ioh. 1.9.</note>
+            </p>
+            <p>Now to make our confeſſion acceptable, it muſt be thus quali<g ref="char:EOLhyphen"/>fied.</p>
+            <p>It muſt be whole, and not imper<g ref="char:EOLhyphen"/>fect. We muſt hide none of our ſins, but rather (if we forget any) pray with <hi>David,</hi>
+               <note place="margin">Pſ. 19 12.</note> 
+               <hi>Lord cleanſe me from my ſecret ſinnes. Qui promereri vult quod experit, debet omne malum confi<g ref="char:EOLhyphen"/>teri quod fecit.</hi>
+               <note place="margin">Greg. Mor.</note> He that would have what he deſires, muſt confeſſe all the evill which he hath committed.</p>
+            <p n="2">2. It muſt be pure, humble, ſim<g ref="char:EOLhyphen"/>ple, plaine, and not artificially com<g ref="char:EOLhyphen"/>pounded,
+<pb n="17" facs="tcp:115001:16"/>
+               <hi>Pura, ſimplex, humilis, non affectata elegantia,</hi> as <hi>Ambroſe</hi> ſpeaks. We have a patterne of ſuch a confeſſi<g ref="char:EOLhyphen"/>on,<note place="margin">Dan 9.5.</note> made by the Prophet <hi>Daniel:</hi> and the like by holy <hi>Iob;</hi>
+               <note place="margin">Inpaſtor.</note> of which <hi>Gregory</hi> thus ſpeakes, <hi>Mirentur in bono</hi> Job <hi>qui volunt, caſtitatis con<g ref="char:EOLhyphen"/>tinentiam, mirentur integritatem iu<g ref="char:EOLhyphen"/>ſtitiae, mirentur viſcera pietatis, ego in eo non minus miror, confeſſionem humillimam peccatorum, quam tot ſubli<g ref="char:EOLhyphen"/>mia virtutum.</hi> Let them that will admire in good <hi>Iob,</hi> his continence of chaſtity, let them admire the in<g ref="char:EOLhyphen"/>tegrity of his juſtice, and his bow<g ref="char:EOLhyphen"/>els of mercy, I admire no leſſe in him, his humble confeſſion of his ſins, then ſo many tranſcendencies of thoſe other vertues. Such an hum<g ref="char:EOLhyphen"/>ble confeſſion was that of King <hi>Da<g ref="char:EOLhyphen"/>vids,</hi>
+               <note place="margin">2 Sam. 24.10.</note> 
+               <hi>I have ſinned exceedingly in that I have done, I have done very foo<g ref="char:EOLhyphen"/>liſhly. Is it not to be marvelled at, that a man ſhould ſinne</hi> (ſaith <hi>Am<g ref="char:EOLhyphen"/>broſe</hi>) <hi>but this is to be reprooved in him, that he acknowledgeth not that he hath ſinned, and humble himſelfe for it before God?</hi>
+            </p>
+            <pb n="18" facs="tcp:115001:17"/>
+            <p n="3">3. It muſt be diſcrect, not filled with Tautologies.<note place="margin">Luc. 18 14.</note> The <hi>Publicans</hi> was ſhort and pithy, and <hi>departed to his houſe iuſtified rather then the Pha<g ref="char:EOLhyphen"/>riſee;</hi> for as <hi>Iſidore</hi> ſaith, <hi>Confeſſio eſt cordis non labiorum,</hi> Confeſſion is a thing more proper to the heart, then the lips.<note place="margin">Mat. 23.14. Mar. 11.40. Luc. 20 47.</note> Long Prayers are not much approved by our Saviour.</p>
+            <p n="4">4. It muſt be frequent and often done.<note place="margin">Pro. 8 16. <hi>Chryſ in</hi> Pſa.30.</note> 
+               <hi>The iuſt man falleth ſeven times a day, and riſeth againe.</hi> His falling is by ſinne, and his riſing by repen<g ref="char:EOLhyphen"/>tance. <hi>Peccata tua dicito ut deleas, &amp; dicito quotidiè,</hi> confeſſe thy ſinnes that thou maiſt blot them out, and confeſſe them daily, ſaith <hi>Chryſo<g ref="char:EOLhyphen"/>ſtome.</hi>
+            </p>
+            <p n="5">5. It muſt be to God,<note place="margin">Phil.</note> 
+               <hi>I doe not ſay</hi> (ſaith the ſame Father) <hi>that thou ſhouldeſt confeſſe thy ſinnes to thy ſer<g ref="char:EOLhyphen"/>vant, to hit thee in the teeth with them, but to GOD that remits them.</hi>
+            </p>
+            <p n="3">3. A third is Converſion, or tur<g ref="char:EOLhyphen"/>ning from our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vill courſe of life; amendment <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> life for the future, for as it is a part of Repen<g ref="char:EOLhyphen"/>tance,
+<pb n="19" facs="tcp:115001:17"/>to confeſſe the ſinnes we have committed, ſo if there be not a pur<g ref="char:EOLhyphen"/>poſe to lead a new life afterwards, our confeſſion will not availe us, nor is our Repentance true. And though <hi>Converſio ad bonum,</hi>
+               <note place="margin">Aug.</note> turning from evill to good, <hi>non homini ſed Deo aſcribenda eſt,</hi> is to be aſcribed to God, and not to man, yet we are not ſo to rely upon Gods act, as to think there were nothing for us to doe; for it is neceſſary, that our will co-o<g ref="char:EOLhyphen"/>perate with grace, in the act of our Salvation. S. <hi>Ambroſe</hi> tels us, what this converſion is. <hi>Quando ſic poeni<g ref="char:EOLhyphen"/>tentiam agis, ut tibi amarum ſapiat in anima, quod ante dulce fuit in vi<g ref="char:EOLhyphen"/>ta, &amp; quod te priùs oblectabat in cor<g ref="char:EOLhyphen"/>pore, ipſum recruciat in corde,</hi> when thou ſo repenteſt, as that whatſoe<g ref="char:EOLhyphen"/>ver was formerly pleaſant to thee in the courſe of thy life, doth now taſt bitter in thy ſoule, and what was formerly pleaſing to thee in thy bo<g ref="char:EOLhyphen"/>dy, doth now torment thee in thy heart.</p>
+            <p>Now our Converſion muſt be to God with the heart, and the whole
+<pb n="20" facs="tcp:115001:18"/>heart (as the Prophet willeth us) <hi>A Sinner is out of his right way,</hi>
+               <note place="margin">Iocl 2 15.</note> 
+               <hi>hee must therefore turne into it.</hi> And this turning ſhould bee while wee are in Proſperity, Peace and Health, when all things are <hi>ex ſententiâ</hi> with us, as wee would deſire: wee ſhould turne to GOD of our owne accord, without compulſion,<note place="margin">Luc 19.4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and then it were <hi>Sacrificium acceptabile:</hi> but ſeeing wee have omitted that, and that we knew not the things, which belonged to our peace, yet in diſtreſſe, GOD will not re<g ref="char:EOLhyphen"/>ject a true and unfained Converſi<g ref="char:EOLhyphen"/>on. Again, the turning <hi>Joel</hi> ſpeaks of, muſt be to God, not to ſinne, from one ſinne to another. Nor muſt it be <hi>vertigo capitis,</hi> a gid<g ref="char:EOLhyphen"/>dineſſe or turning of the braine, but <hi>cordis</hi> of the heart, not one<g ref="char:EOLhyphen"/>ly our minde, but our will and affections muſt bee changed; and then as S. <hi>Auguſtine</hi> ſaith, <hi>Conver<g ref="char:EOLhyphen"/>ſio noſtra inveniet Deum paratum,</hi> our Converſion will find God rea<g ref="char:EOLhyphen"/>dy to turne from his wrath, and
+<pb n="21" facs="tcp:115001:18"/>to receive us to favour: and there is no ſinne ſo great,<note place="margin">Iſid.</note> but hee will remit to a Convert. His good<g ref="char:EOLhyphen"/>neſſe and power is ſo great, ſaith <hi>Auguſtine,</hi> that there is no of<g ref="char:EOLhyphen"/>fence ſo hainous, which hee will not pardon him, that truly turneth to him.</p>
+            <p n="4">4. Another ingredient is Contri<g ref="char:EOLhyphen"/>tion, which is a breaking of the heart with ſorrow and griefe for our ſins, and that by committing them we have ſo highly offended ſo great and good a God. And it alludeth to things, which being hard, are broken in pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ces, by ſome hard inſtrument, and ſo the heart hardned by ſin, is as it were broken by ſorrow and grief.</p>
+            <p>It is ſomtimes called, <hi>compunctio cor<g ref="char:EOLhyphen"/>dis,</hi> compunction or pricking of the heart, cauſed chiefly, by feare of Gods wrath againſt our ſins, and love to his Majeſty and his Commandements. <hi>Greg.</hi> ſaith,<note place="margin">Mor,</note> 
+               <hi>Alia eſt compunctio quae per amorem naſcitur, alia quae per timorem: quià aliud eſt ſupplicia fugere, aliud prae<g ref="char:EOLhyphen"/>mia deſider are.</hi> Compunction which a<g ref="char:EOLhyphen"/>riſeth by love is one thing, and that is
+<pb n="22" facs="tcp:115001:19"/>another which groweth out of feare, becauſe it is one thing to avoid pun<g ref="char:EOLhyphen"/>iſhment, and another to expect a re<g ref="char:EOLhyphen"/>ward. This is that which made the Apoſtles auditours to cry out,<note place="margin">Act. 2.37.</note> 
+               <hi>Men and Brethren, what ſhall we doe?</hi> for the Text ſaith, <hi>they were pricked in their hearts.</hi>
+            </p>
+            <p>Otherwhile it is called, <hi>Rentino of the heart,</hi>
+               <note place="margin">Icel 2.12.</note> and this is an effect of indig<g ref="char:EOLhyphen"/>nation, as the other is of ſorrow: as you may reade in the Story of S. <hi>Ste<g ref="char:EOLhyphen"/>phen,</hi> after he had pleaded his cauſe, and touched the <hi>Jewes</hi> to the quick, it is ſaid,<note place="margin">Act. 7 54.</note> 
+               <hi>their hearts braſt for anger.</hi> For as ripe ulcers are launced with ſharpe inſtruments, that the vene<g ref="char:EOLhyphen"/>mous matter may iſſue out, ſo our hearts ſwolne by the venome of ſin, are by this kind of Contrition ope<g ref="char:EOLhyphen"/>ned, and the Malignant humour let forth.</p>
+            <p>Now this Contrition hath many branches. 1. The firſt is Humiliati<g ref="char:EOLhyphen"/>on, <hi>Depoſitio excellentiae,</hi> not only laying aſide our beſt cloathes, and putting on thoſe that are more vile (as of old they did, humbling them<g ref="char:EOLhyphen"/>ſelves
+<pb n="23" facs="tcp:115001:19"/>in <hi>ſack-cloth</hi>) but in abaſing our ſelves with <hi>Jacob,</hi>
+               <note place="margin">Gen. 18.27.</note> ſaying, <hi>Non ſum dignus, I am not worthy of the leaſt of thy bleſſings,</hi> &amp;c. <hi>Chryſoſtome</hi> ſaith, <hi>Contritio eſt hu<g ref="char:EOLhyphen"/>militas cordis, vera compunctio,</hi>
+               <note place="margin">Lib de co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>punct.</note> 
+               <hi>mag<g ref="char:EOLhyphen"/>na agere, &amp; humilia loqui.</hi> Contri<g ref="char:EOLhyphen"/>tion is humbleneſſe of heart, true compunction, to do great things, and ſpeak of ſmall and meane.</p>
+            <p n="2">2. The ſecond is ſmiting upon the breſt with the <hi>Publican,</hi>
+               <note place="margin">Luc. 18.13. Ier. 31.19.</note> and ſmiting on the Thigh, with the people in captivity, in ſigne of true Repen<g ref="char:EOLhyphen"/>tance and deteſtation of ſin.</p>
+            <p n="3">3. Another (and not the leaſt) is weeping an mourning, the ſhedding of teares, and grieving for our ſins. And firſt of tears.</p>
+            <p n="1">1. Of teares there are 3. ſorts.</p>
+            <p n="1">1. Naturall, which ariſe from the loſſe of goods, death of friends, infirmities, injuries received, and the like.</p>
+            <p n="2">2. Hurtfull are they which craft, hypocriſie and dissembling wring from us; as the teares of harlots, which are compared to the tears of
+<pb n="24" facs="tcp:115001:20"/>Crocodiles: but theſe two kinds of tears, are not thoſe which be proper to true Contrition.</p>
+            <p n="3">3. Wholeſome tears, are they, which proceed from the Holy Spirit, as from the fountain: and of theſe there are two kinds: one the ſignes of god<g ref="char:EOLhyphen"/>ly ſorrow, the other of ſpirituall joy. One of hatred for ſin, the other of love to God. The tears of Contri<g ref="char:EOLhyphen"/>tion are demonſtrations of hate to ſin, and the tears of deſire to ſee God, are ſignes of love.</p>
+            <p n="1">1. The tears of Contrition (proper to this ſubject of Repentance) are powerfull with God.<note place="margin">In Eſaium.</note> 
+               <hi>Hierom</hi> ſaith, <hi>Oratio Deum lenit, ſed lachrymae co<g ref="char:EOLhyphen"/>gunt.</hi> Prayer pacifies God, but tears force him to grant our ſuits.<note place="margin">Pſ. 126.7.</note> 
+               <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſaith, <hi>They that ſow in teares ſhall reape in joy.</hi>
+               <note place="margin">In Serm.</note> And <hi>Chryſoſtome</hi> ſpeaketh thus, <hi>Nemo ad Deum ali<g ref="char:EOLhyphen"/>quando flens acceſſit, qui non quod postulavit, accepit,</hi> No man ever came to God weeping, that obtained not, what he deſired. And there<g ref="char:EOLhyphen"/>fore it was, that the Prophet <hi>Ieremy</hi> ſo often called upon the people, in
+<pb n="25" facs="tcp:115001:20"/>the time of Gods viſitation, for wee<g ref="char:EOLhyphen"/>ping, that they might appeaſe his wrath, and wept himſelfe, as he teſtifies.<note place="margin">Lam. 1.16.</note> 
+               <hi>For theſe things I weepe: mine eye, even mine eye, caſteth out water, becauſe the Comforter ſhould refreſh my ſoule.</hi>
+               <note place="margin">Ier. 9.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>And O that mine head were full of water, and mine eyes a fountaine of teares, that I might weepe day and night for the ſlaine of the daughter of my people.</hi> And in the ſame Chapter, (telling how God would feed the people with <hi>Worm<g ref="char:EOLhyphen"/>wood,</hi> and give them <hi>gall</hi> to drinke, and ſend the <hi>Sword</hi> aft<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r them) he cals the women to <hi>mourne</hi> and <hi>weepe.</hi> Laſtly,<note place="margin">Lam. 2.18, 19</note> hee perſwades them, that teares might run downe like <hi>a river day and night,</hi> and to lift up their faces like <hi>water,</hi> before the Lord, to avert his heavy judgements from them.</p>
+            <p>In the ſacred Scriptures there are many examples of thoſe that ſhed teares, to appeaſe the wrath of God. We will touch ſome of them. The firſt were the people of the <hi>Jewes,</hi> who upon the <hi>Angels</hi> reprooving of
+<pb n="26" facs="tcp:115001:21"/>them for their ſinnes,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lud 2.4.</note> 
+               <hi>lift up their voyce and wept, and called the name of that place, the place of weepers and teares.</hi> And that theſe teares were from the heart, and obtained Gods favour, appeares by the end; for a little after it is ſaid, <hi>They ſerved the Lord all the dayes of</hi> Joſhuah, <hi>and all the dayes of the Elders that out<g ref="char:EOLhyphen"/>lived</hi> Joſhuah.<note place="margin">7.</note> Thoſe then are true ſaving tears, to which a ſetled change of life ſucceeds.</p>
+            <p>The next we find, are the ſame people, who, (upon two diſcomfi<g ref="char:EOLhyphen"/>tures,)<note place="margin">20.26.</note> 
+               <hi>came up into the houſe of God and wept,</hi> &amp;c. They held a ſolemne Faſt, one part whereof conſiſted in weeping.</p>
+            <p>In the next place, we have the ex<g ref="char:EOLhyphen"/>ample of King <hi>David,</hi> a man aboun<g ref="char:EOLhyphen"/>ding plentifully in pious teares, as well for himſelfe and his ſinnes, as for the ſinnes of others: For firſt, we reade, that after his Repentance for the ſinnes of Adultery and Mur<g ref="char:EOLhyphen"/>ther; he thus ſpeakes of himſelfe, <hi>I am weary of my groaning,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.6.</note> 
+               <hi>every night I waſh my bed, and water my couch
+<pb n="27" facs="tcp:115001:21"/>with my teares.</hi> And then for the ſins of others, he ſaith,<note place="margin">Pſ. 119.136.</note> 
+               <hi>Mine eyes guſh out with water, becauſe men keepe not thy Law.</hi>
+            </p>
+            <p>To come to the New Teſtament, in which the chiefe mourner and weeper is our Saviour Chriſt, of whom we reade not, that he ever laughed, but <hi>wept often:</hi> And though he had no cauſe to weepe for him<g ref="char:EOLhyphen"/>ſelfe, yet for others he did; as for the temporall deſtruction of <hi>Ieruſa<g ref="char:EOLhyphen"/>lem,</hi> as alſo for <hi>Lazarus,</hi> whom he reſtored to life. Laſtly,<note place="margin">Luc 1941. Ioh. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.35. Heb. 5.7.</note> the Apoſtle teſtifies of him, <hi>that he offered up prayers and ſupplications, with ſtrong crying and tears,</hi> &amp;c.</p>
+            <p>The next weeper was <hi>Mary Mag<g ref="char:EOLhyphen"/>dalen:</hi>
+               <note place="margin">Luc 7.38.</note> Who when ſhe began to re<g ref="char:EOLhyphen"/>pent, <hi>waſhed</hi> Chriſts feet with the <hi>teares of repentance, at a publique feaſt in the preſence of many.</hi>
+            </p>
+            <p>S<hi rend="sup">t</hi>. <hi>Peter</hi> follows, who committed a great offence (at our Saviours paſſi<g ref="char:EOLhyphen"/>on) out of too much confidence of his own ſtrength: for he ſaid,<note place="margin">Mat 26.35.</note> 
+               <hi>Though I ſhould die with thee, yet I will not deny thee.</hi> Yet we ſee how often he
+<pb n="28" facs="tcp:115001:22"/>denied his Maſter.<note place="margin">Mat. 26 75.</note> But he waſhed away this ſinne with ſo great a ſhowre of teares <hi>(for he went out and wept bitterly)</hi> as that we find not, that he was ever reprehended by our Saviour, with ſo much as one word. <hi>Lachrymas</hi> Petri <hi>lego</hi> (ſaith <hi>Auguſtne) ſatisfactionem non lego:</hi>
+               <note place="margin">Ser. 7. infest. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> 
+               <hi>ſed quod defendi non poteſt, ablui po<g ref="char:EOLhyphen"/>teſt.</hi> I reade of <hi>Peters</hi> teares, not of his ſatisfaction: but that which cannot be defended, may be waſhed away.</p>
+            <p>Laſtly,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> (to ſpeak of no more) with 8. <hi>Peter</hi> we may joyne his fellow A<g ref="char:EOLhyphen"/>poſtle S<hi rend="sup">t</hi>. <hi>Paul,</hi> who committed a grievous ſinne, in perſecuting the Church of God, and (as he himſelf confeſſeth) was not only a <hi>Perſecu<g ref="char:EOLhyphen"/>tour,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Tim. 1.13.</note> but a <hi>blasphemer,</hi> and <hi>ſpitefull,</hi> or <hi>injurious.</hi> But after his <hi>Converſi<g ref="char:EOLhyphen"/>on,</hi> where the offence of <hi>perſecution</hi> abounded, the grace of <hi>teares ſupera<g ref="char:EOLhyphen"/>bounded;</hi> for ſo he teſtifies of him<g ref="char:EOLhyphen"/>ſelfe,<note place="margin">Act. 20. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8, 19 31.</note> 
+               <hi>Yee know that from the firſt day I came into</hi> Aſia, <hi>after what manner I have beene with you at all ſeaſons, ſerving the Lord, with all humility of
+<pb n="29" facs="tcp:115001:22"/>mind, and with many teares:</hi> And a little after. <hi>By the ſpace of three yeares, I ceaſed not to warne every one, night and day, with teares:</hi> And in the latter Epiſtle to the <hi>Corinthi<g ref="char:EOLhyphen"/>ans,</hi>
+               <note place="margin">2 Cor. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> 
+               <hi>I wrote to you with many teares.</hi> So that this bleſſed Apoſtle, whether he ſpake to God by prayer, he uſed teares, that he might be heard; or whether he ſpake by preaching unto men, he endeavoured rather to per<g ref="char:EOLhyphen"/>ſwade with teares, then words: for he knew, and had learned by experi<g ref="char:EOLhyphen"/>ence, that great was the power and efficacy of teares, as well with God, as men.</p>
+            <p>We have ſeen the power and force of teares, and we have ſeen the pra<g ref="char:EOLhyphen"/>ctiſe of Gods people, of Chriſt, and divers Saints therin, let us now ſee the neceſſity of them, and that for 4 reſpects.</p>
+            <list>
+               <item>1. Of the deformity of ſinne it ſelf.</item>
+               <item>2. Of the multitude of ſinnes com<g ref="char:EOLhyphen"/>mitted.</item>
+               <item>3. Thirdly, in reſpect of the Party ſinning, and the Party offen<g ref="char:EOLhyphen"/>ded
+<pb n="30" facs="tcp:115001:23"/>by ſinning.</item>
+               <item>4. Laſtly, in regard of the miſeries of the time.</item>
+            </list>
+            <p n="1">1. For the firſt. Sinne is an of<g ref="char:EOLhyphen"/>fence againſt God, and all the crea<g ref="char:EOLhyphen"/>tures, and therfore he which ſinneth, taketh armes (as it were) and is at enmity with God, and all created things. The type wherof was <hi>Iſh<g ref="char:EOLhyphen"/>mael,</hi>
+               <note place="margin">Gen, 16.12.</note> 
+               <hi>whoſe hands were againſt all men, and every mans hand was againſt him.</hi>
+            </p>
+            <p>That ſinne is an offence againſt God, may be collected from the de<g ref="char:EOLhyphen"/>finition of it. S. <hi>Auguſtine</hi> (and all Divines follow him) defines ſinne to be,<note place="margin">C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut. Fanſt. <hi>27.</hi>
+               </note> whatſoever is ſpoken, done, or coveted, againſt the eternall Law: and the eternall Law is the chiefe and everlaſting Counſell of God, which is God himſelf, now he that offends the Law, offends God himſelf, and de<g ref="char:EOLhyphen"/>parts from his obedience, for which he becomes liable to his juſt revenge. Which God teſtifies by the Prophet,<note place="margin">Eſa. 24.5.6.</note> 
+               <hi>They have tranſgreſſed the Laws, chan<g ref="char:EOLhyphen"/>ged the Ordinance, and broken the e<g ref="char:EOLhyphen"/>verlaſting Covenant, therefore hath the curſe devoured the Earth.</hi> The
+<pb n="31" facs="tcp:115001:23"/>puniſhment alſo which God laid upon the Angels which fell, upon our firſt Parents, and their poſteri<g ref="char:EOLhyphen"/>ty, by the generall floud, teſtifies the ſame. And laſtly, the eternall paines, which God threatneth a<g ref="char:EOLhyphen"/>gainſt ſinners by his Prophets and Apoſtles, beare witneſſe of the wrath of God, againſt ſin, and ſin<g ref="char:EOLhyphen"/>ners.</p>
+            <p>A ſinner alſo offends the creatures, and provoketh their indignation a<g ref="char:EOLhyphen"/>gainſt him. For firſt, one mans ſin offends other men, by corrupting them by evill example. Secondly, he offends other corporall things, which he turneth from their true and proper end. So that all the creatures take it grievouſly, and are pained, that they are forced to ſerve ſinners.</p>
+            <p>He alſo offends the Angels, whom the new offence of a ſinner doth no leſſe diſpleaſe,<note place="margin">Luc. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5.10.</note> then the converſion of a ſinner doth delight. Laſtly, he of<g ref="char:EOLhyphen"/>fends himſelf, becauſe he robs his ſoul of Gods grace. <hi>Nemo laeditur, niſi à ſeipſo,</hi> no man is hurt, but by him<g ref="char:EOLhyphen"/>ſelf,
+<pb n="32" facs="tcp:115001:24"/>ſaith <hi>Chryſoſtome</hi> truly; be<g ref="char:EOLhyphen"/>cauſe all evill which comes from without, from enemies, diſeaſes, or from the Devill, co-operate to good, if ſinne were away: but when a man poyſons his ſoule with ſinne, all good things turne to evill with him. If therefore a ſinner would conſider theſe things, it could hardly be, but that he would be wholly converted into tears.</p>
+            <p n="2">2. Now ſecondly, if a man would well weigh the multitude of ſinnes, every day committed by every one, he would be much amazed, and trem<g ref="char:EOLhyphen"/>ble at it. The Prophet <hi>David</hi> cryed out and ſaid,<note place="margin">Pſ. 19.12.</note> 
+               <hi>Who can tell how oft he offendeth? O cleanſe thou me, from my ſecret faults.</hi> And in another place goeth further. <hi>My wickedneſ<g ref="char:EOLhyphen"/>ſes are gone over my head</hi> (like a man overwhelmed with water) <hi>and are like a ſore burthen,</hi>
+               <note place="margin">Pſ 38.4.</note> 
+               <hi>too heavy for me to bear: they are inſupportable.</hi> And for this cauſe, he every night <hi>waſhed his bed with teares:</hi> But becauſe we know not the leaſt part of our ſins, we con<g ref="char:EOLhyphen"/>feſſe them with dry eyes.</p>
+            <pb n="33" facs="tcp:115001:24"/>
+            <p>Saint <hi>James</hi> ſaith,<note place="margin">Iam. 3.2.</note> 
+               <hi>In multis offen<g ref="char:EOLhyphen"/>dimus omnes. In many things we offend all.</hi> Now if the bleſſed Apoſtles (af<g ref="char:EOLhyphen"/>ter they had received the holy Ghoſt) confeſſe themſelves to be ſinners, who ſhall number our offences?<note place="margin">Pro. 24.16.</note> And if the juſt man fall ſeven times a day, as the Wiſe-man ſpeaketh, how of<g ref="char:EOLhyphen"/>ten fall the unjuſt and unperfect? fall they not at leaſt ſeventy times ſe<g ref="char:EOLhyphen"/>ven times?</p>
+            <p>The conſideration of this point, ſhould ſo terrifie and confound us, that we might conceive, we alwaies wallow in mire and filth: and think our ſelves to be in that caſe, which <hi>Eſay</hi> ſpeakes of,<note place="margin">Eſa. 2.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <hi>From the ſole of the foote, to the crowne of the head, there is no ſoundneſſe in us.</hi> And can it be, that he that conſiders diligently the ſtate we are in, by our innume<g ref="char:EOLhyphen"/>rable offences, ſhould not weepe moſt bitterly, and as ſoon as we have ſinned, make haſte to waſh it away with tears.</p>
+            <p n="3">3. Thirdly, we are to conſider the party ſinning, and the perſon of<g ref="char:EOLhyphen"/>fended, which are God, and man.
+<pb n="34" facs="tcp:115001:25"/>God is all-ſufficient of himſelf,<note place="margin">Pſ. 16.2.</note> and hath no need of our goods: and man a creature, having nothing at all of himſelfe, but needing all things. <hi>God is a King for ever,</hi>
+               <note place="margin">102.7. Iam. 4.14. Luc. 1.37. Pſ. 12 6. Rom. 16.27. Pſ. 7.10. Gen. 6.5.</note> who ever was, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver ſhall be, he is ever the ſame, and his <hi>yeares faile not. Man is a vapour, that appeareth for a lit<g ref="char:EOLhyphen"/>tle time, and vaniſheth away. God</hi> is omnipotent, with whom nothing is <hi>impoſſible, and whoſe power no crea<g ref="char:EOLhyphen"/>ture is able to reſiſt.</hi> Man is a <hi>worm</hi> of the Earth, ſoone trod to peeces. God is only wiſe, and knoweth the thoughts of man, <hi>ſearching the heart and reynes. Mans thuoghts are evill continually.</hi> God is a loving and boun<g ref="char:EOLhyphen"/>tifull Father; Man, if he were ſtript by God of what he hath, would be eaſily reduced to nothing. Laſtly, God is the true and naturall Lord of all the Creatures, and Man but the vaſſall of his Creator. If then we well weigh theſe two together, and conſider the diſparity between them and how inſolently man carrieth himſelfe, in oppoſing, contemning, rebelling, and fighting againſt his
+<pb n="35" facs="tcp:115001:25"/>God, would it not be ſufficient to draw a floud of tears from the hardeſt rocke of man heart? And make him with good K. <hi>Hezekias,</hi>
+               <note place="margin">Eſa 38.15.</note> remem<g ref="char:EOLhyphen"/>ber all his years <hi>in the bitterneſſe of his ſoule.</hi>
+            </p>
+            <p n="4">4. Laſtly, If we would conſider the miſeries of the time, there were cauſe enough, to draw teares from a heart of flint. Of which miſeries, I ſhall not need to ſay much, they be<g ref="char:EOLhyphen"/>ing too apparent, and (except by timely repentance, we make our peace with God) like to bring an inevitable ruine upon this Kingdom. The Sword (for which the Authors ſhall one day anſwer) is already drawne, and what miſeries accom<g ref="char:EOLhyphen"/>pany warre, and civill diſſentions e<g ref="char:EOLhyphen"/>ſpecially, will eaſily appeare, if we looke into the Hiſtories of former a<g ref="char:EOLhyphen"/>ges, both abroad, and at home. The <hi>Heathen</hi> Poet could ſay of warre, <hi>Dulce bellum inexpertis,</hi>
+               <note place="margin">Pinlar.</note> 
+               <hi>at qui gu<g ref="char:EOLhyphen"/>ſtavit, contremiſcit animo quoties ad<g ref="char:EOLhyphen"/>ventans illud videt.</hi> Warre is plea<g ref="char:EOLhyphen"/>ſant to them that never tryed what a battell is; but he that hath once ta<g ref="char:EOLhyphen"/>ſted
+<pb n="36" facs="tcp:115001:26"/>it, trembles at the heart, when<g ref="char:EOLhyphen"/>ſoever he ſees it comming. And of a civill warre the Oratour ſaith thus.<note place="margin">Ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</note> 
+               <hi>Omnia miſera ſunt in bello civili, ſed nihil miſerius ipſa victoria.</hi> All things are miſerable in civill warre, but no<g ref="char:EOLhyphen"/>thing more miſerable, then the vict<g ref="char:EOLhyphen"/>ory it ſelf.</p>
+            <p n="1">1. The neceſſity of weeping then, be<g ref="char:EOLhyphen"/>ing thus laid before us, we cannot, but at the leaſt deſire this <hi>gratiam la<g ref="char:EOLhyphen"/>chrymarum,</hi> the grace of teares from God; and with <hi>Ieremy</hi> ſay, <hi>Oh that our heads were full of water, and our eyes fountaines of teares, to bewayle the miſeries befallen us,</hi> by offending the Majeſty of God.</p>
+            <p n="2">2. But if we cannot attaine to this grace of tears, nor that with <hi>David, our eyes cannot guſh out teares, nor that we can water our Couch with them;</hi> nor with <hi>Ieremy drop a few teares.</hi> Let us complaine of our <hi>dri<g ref="char:EOLhyphen"/>neſſe,</hi>
+               <note place="margin">Eſa. 24.16. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leb. 5.7.</note> as <hi>Eſay</hi> did of his <hi>leanneſſe,</hi> and offer up to God, his ſons <hi>ſtrong crying teares,</hi> for our barrenneſſe, and beſeech him to accept them. And not content our ſelves onely
+<pb n="37" facs="tcp:115001:26"/>with that, but give our ſelves to mourning, if we cannot to weeping, doe one, if we cannot doe the other.<note place="margin">Pſ. 38.6.</note> We may with <hi>David, goe mourning all the day long.</hi> And if we cannot take up <hi>Ieremies weeping,</hi>
+               <note place="margin">Ier. 48.3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> let us take up his <hi>mourning,</hi> which was from the heart, and cry unto the Lord and ſay, <hi>Spare thy people O Lord.</hi>
+               <note place="margin">Ioel 2.17. Hoſ 8.13. Ier. 12.15.</note> 
+               <hi>Re<g ref="char:EOLhyphen"/>member not our iniquities, nor viſit our ſinnes in thy wrath. Returne O Lord from thy iust diſpleaſure, and have compaſſion on us.</hi>
+            </p>
+            <p>The fifth ingredient, to make our Repentance full, is <hi>Satisfaction.</hi> Which (in the ſtrictneſſe of ſence) is a full paiment and diſcharge of a thing due. But the ſatisfaction pro<g ref="char:EOLhyphen"/>per to this ſubject (that is, which ſatisfieth God for ſinne) is a compen<g ref="char:EOLhyphen"/>ſation, whereby a man payes or per<g ref="char:EOLhyphen"/>formes ſomewhat to God, in regard of his ſinning againſt him. And this is of two ſorts.</p>
+            <p n="1">1. The firſt and moſt ſatisfactory, by which God is aboundantly ſatisfi<g ref="char:EOLhyphen"/>ed, the debt due by us, upon the ac<g ref="char:EOLhyphen"/>count of our ſins, though he would
+<pb n="38" facs="tcp:115001:27"/>deale with us in the rigour of his Ju<g ref="char:EOLhyphen"/>ſtice,<note place="margin">1 Cor. 6.10.</note> is that ſatisfaction, which Chriſt made to him, by paying the price of our ſins, in his Croſſe and Paſſion. Nor was there any created thing of that value, to diſcharge us from ſo great a debt.<note place="margin">1 Ioh. 2.2.</note> This St. <hi>Iohn</hi> teſtifies, when he ſaith, <hi>He is the Propitiation for our ſinnes, and not for ours onely, but for the ſinnes of the whole world,</hi>
+               <note place="margin">2 Cor. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.19.</note> 
+               <hi>For in Chriſt, God is reconciled to all men in the world, by not imputing their treſpaſſes to them:</hi> So that they, which were <hi>once farre-off,</hi>
+               <note place="margin">Eph. 2.13.</note> 
+               <hi>are now made neare unto him, by the bloud of Christ.</hi> And in another place the Apoſtle ſaith, <hi>Chriſt was once offered to take away the ſins of many.</hi> This is the firſt.</p>
+            <p n="2">2. The other is that, which we of our owne accord make (and for Chriſts ſake is accepted) by Repen<g ref="char:EOLhyphen"/>tance for our ſinnes committed, by giving God his due honour, which none can doe, but they, that have a ſetled reſolution, to forſake ſinne: which they performe the better,
+<pb n="39" facs="tcp:115001:27"/>when they cut off all occaſions of ſin, and are no way indulgent or prone, to give way to the ſuggeſtions ther<g ref="char:EOLhyphen"/>of; grieving and judging themſelves, for that they have done already, to the derogation of Gods honour, as much as lay in them. And theſe muſt all goe togither. For,<note place="margin">Aug. l. d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poenit.</note> 
+               <hi>Ad agen<g ref="char:EOLhyphen"/>dam poenitentiam, non ſufficit mores in melius convertere, niſi &amp; de his quae facta ſunt Deo, per paenitentiae dolorem, per humilitatis gemitum, per contriti cordis ſacrificium ſatisfacias.</hi> To the making of a perfect Repentance, it is not enough to change our man<g ref="char:EOLhyphen"/>ners into better, unleſſe we ſatisfie God, for that we have committed a<g ref="char:EOLhyphen"/>gainſt him, with the griefe of re<g ref="char:EOLhyphen"/>pentance, by humble mourning, and the ſacrifice of a broken heart.</p>
+            <p>And this Repentance bringeth forth divers effects,<note place="margin">2 Cor. 7.</note> mentioned by the Apoſtle.</p>
+            <p n="1">1. Carefulnes, to amend what we have done amiſſe.</p>
+            <p n="2">2. Defence, againſt the tenta<g ref="char:EOLhyphen"/>tions, and aſſaults of the De<g ref="char:EOLhyphen"/>vill.</p>
+            <pb n="40" facs="tcp:115001:28"/>
+            <p n="3">3. Indignation, at our ſelves for our boldneſſe, in offending.</p>
+            <p n="4">4. Fear of falling into relapſe, and ſinning again.</p>
+            <p n="5">5. Vehement deſire to be reconci<g ref="char:EOLhyphen"/>led to God offended.</p>
+            <p n="6">6. Zeale of Gods glory, and emula<g ref="char:EOLhyphen"/>tion of good examples.</p>
+            <p n="7">7. Revenge in humbling and cha<g ref="char:EOLhyphen"/>ſtening the fleſh, and puniſhing it for ſinne.<note place="margin">Aug.</note> 
+               <hi>Quia impunitum non debet eſſe peccatum, punietur à te, ne tu pro illo puniaris. Peccatum tuum iudi<g ref="char:EOLhyphen"/>com te habeat, non patronum.</hi> Becauſe ſinne ought not to goe unpuniſhed, let it be puniſhed by thy ſelfe, leaſt thou be puniſhed for it. Let thy ſinne find thee a Judge, not a Pa<g ref="char:EOLhyphen"/>tron.</p>
+            <p n="6">6. The ſixth Ingredient, is <hi>Faſting.</hi> And this is of two kinds,</p>
+            <p n="1">1. The firſt, and chiefe Faſt, is to <hi>abſtaine from ſinne,</hi>
+               <note place="margin">T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 2.12.13.</note> 
+               <hi>and the unlaw<g ref="char:EOLhyphen"/>full pleaſures of the world, to deny un<g ref="char:EOLhyphen"/>godlineſſe, and worldly luſts, to live ſoberly and righteouſly, and godly in this preſent world</hi> (as the Apoſtle ſpeakes) and there is a <hi>reward</hi> annex<g ref="char:EOLhyphen"/>ed
+<pb n="41" facs="tcp:115001:28"/>to this, in the next verſe. <hi>Looking for that bleſſed hope, and appearing of that glory, of that mighty God, and of our Saviour Ieſus Chriſt.</hi>
+               <note place="margin">In Levit Hom. 10.</note> 
+               <hi>Origen</hi> asketh this queſtion. <hi>Wilt thou have me ſhew thee, what Faſt thou ſhalt keepe?</hi> And reſolves it thus, <hi>Faſt from all ſinne, eat not the meat of wic<g ref="char:EOLhyphen"/>kedneſſe, avoid the banquets of un<g ref="char:EOLhyphen"/>lawfull pleaſures; be not enflamed with the wine of lust, Faſt from wicked actions, abſtaine from evill ſpeeches, and refraine from evill thoughts: ſuch a Faſt is acceptable to God.</hi> And <hi>Ie<g ref="char:EOLhyphen"/>rome</hi> ſaith,<note place="margin">Ad Celam.</note> 
+               <hi>Tunc praeclara eſt abſti<g ref="char:EOLhyphen"/>nentia, tunc pulchra caſtigatio corpo<g ref="char:EOLhyphen"/>ris, cum animus ieiunus eſt a vitys.</hi> Then is our Faſting excellent, and then is the chaſtizing of our body ve<g ref="char:EOLhyphen"/>ry good, when the ſoule faſteth from ſin.</p>
+            <p n="2">2. The other kind of <hi>Faſting</hi> is, an abſtinence from meats, lawfull to be eaten, not by forſaking the uſe of the <hi>Creatures of God,</hi> which in them<g ref="char:EOLhyphen"/>ſelves <hi>are good, if they be taken with thanksgiving;</hi>
+               <note place="margin">1 Tim. 4.4.</note> but by refraining them to afflict and mortifie the fleſh,
+<pb n="42" facs="tcp:115001:29"/>and making it ſubſervient to the ſoul, and that, ſubject to God. And this was it,<note place="margin">1 Cor 9.27.25.</note> which the Apoſtle meant, when he ſaid, <hi>Caſtigo Corpus meum.</hi> I beat downe or chaſtiſe my body; for obſerve his words before. <hi>Eve<g ref="char:EOLhyphen"/>ry man that ſtriveth for the maſtery, abſtaineth (or is temperate) from all things.</hi> But (ſaith he) <hi>I keepe my body under, and bring it in ſubi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ti<g ref="char:EOLhyphen"/>on.</hi>
+               <note place="margin">Pſ 69 10.</note> The Pſalmiſts ſpeech, is full to this purpoſe. <hi>I wept and chaſtened my body with Faſting.</hi>
+            </p>
+            <p>And this is a duty of ſo ancient in<g ref="char:EOLhyphen"/>ſtitution, as the beginning of the world, even in Paradiſe: for ſo ſay the Fathers.<note place="margin">Aug. Baſili<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Jeiunium in Paradiſo le<g ref="char:EOLhyphen"/>ge conſtitutum eſt:</hi> Faſting was inſti<g ref="char:EOLhyphen"/>tuted in Paradiſe by a law, ſaith one. The firſt command concerning it, was to <hi>Adam.</hi> He was prohibited the eating a fruit of one tree, <hi>Thou ſhalt not eat of it,</hi>
+               <note place="margin">Gen. 3.3.</note> ſaith God, and not to eat is Faſting. Now if <hi>Adam</hi> had faſted from that Tree, we ſhould not have needed to faſt at all; <hi>For the whole need not a Phyſitian, but they that are ſicke,</hi>
+               <note place="margin">Mat 9.12.</note> ſaith our Saviour. There<g ref="char:EOLhyphen"/>fore
+<pb n="43" facs="tcp:115001:29"/>ſince we fell from Paradiſe, for want of Faſting, let us faſt, that we may return thither again.</p>
+            <p>There are two kinds of Faſts,
+<list>
+                  <item>1. Publike.</item>
+                  <item>2. And Private.</item>
+               </list>
+            </p>
+            <p n="1">1. The Publike Faſt is, when up<g ref="char:EOLhyphen"/>on any calamity, either preſent or imminent, over Church, or State, a whole Nation is commanded by Au<g ref="char:EOLhyphen"/>thority, to aſſemble in their ſeverall Congregations, to humble them<g ref="char:EOLhyphen"/>ſelves, by abſtinence, and other parts of Repentance, before God, to im<g ref="char:EOLhyphen"/>plore his Mercy, and to avert his Judgements. And this is now the caſe of our Land, for Calamity is im<g ref="char:EOLhyphen"/>minent, nay preſent with us, and this duty is injoyned us, according to the ancient practiſe of all Gods people, by lawfull Authority.</p>
+            <p n="2">2. The private Faſt is, when a man doth voluntarily undertake a Faſt to himſelf, being oppreſſed with any tentation, or over-burdned with the weight of ſinnes, committed by him; believing, that by this means, and way of humiliation, by Faith in
+<pb n="44" facs="tcp:115001:30"/>Chriſt Jeſus, he ſhall not only obtain Remiſſion of his ſins paſt, but ſubject his fleſh to the ſpirit, and make his prayers more ardent, and take away the predominant matter, which is the cauſe of tentation, the better to prevent his ſinne, for the fu<g ref="char:EOLhyphen"/>ture.</p>
+            <p>The particulars of this private <hi>Faſt,</hi> are not much different from that of the publike: Nor is any man prohi<g ref="char:EOLhyphen"/>bited, but (as I conceive) enjoyned, to keepe a private <hi>Faſt,</hi> beſides the publick, in the time of Gods viſita<g ref="char:EOLhyphen"/>tion. For firſt, all godly exerciſes, are to be done in charity, and if a man be commanded to pray in private, for the publique, I ſee no reaſon, but he may as well <hi>Faſt.</hi> Beſides, as the ſins of particular men, as well as of the Nation in generall have made up that groſſe and heavy ſumme, which hath now called us to account, with Gods juſtice: ſo it behoveth every private man, to put to his hand, to diſcharge it, and take it off, by im<g ref="char:EOLhyphen"/>ploring his Mercy. I ſhall therefore handle this, as the other <hi>Ingredients</hi>
+               <pb n="45" facs="tcp:115001:30"/>to Repentance, promiſcuouſly, and in the firſt place, let you ſee the good effects of <hi>Faſting,</hi> and they are either temporall or ſpirituall.</p>
+            <p n="1">1. The firſt and chiefe temporall bleſſing, is life. The Divell could tell God,<note place="margin">Iob 2.4.</note> 
+               <hi>That skin for skin, and all that e<g ref="char:EOLhyphen"/>ver a man hath, will he give for his life.</hi> Now by <hi>Faſting</hi> and abſtinence, a mans life is preſerved. There is no medicine more preſervative then abſtinence.<note place="margin">Syr. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7.29.</note> 
+               <hi>By ſurfetting many have periſhed</hi> (ſaith <hi>Syracides) but he that dieteth himſelfe, prolongeth his life.</hi> Daily experience teacheth us as much. We ſee how quickly, men given to exceſſe, end their lives, and how long they live, that are abſtemi<g ref="char:EOLhyphen"/>ous and temperate in their diet. Of <hi>Galen,</hi> the Prince of Phyſitians, it is reported, that he lived 120. years, and the reaſon of it is given, that he never roſe from his table, with a full ſtomacke. Philoſophers ſay, that all inferiour cauſes conſume, and grow weak, by uſe and working, as we ſee by Sawes, Axes and Tools, the more they are uſed, the duller they
+<pb n="46" facs="tcp:115001:31"/>grow, and in the end, by much uſe, are waſted. So, ſeeing the naturall heat is that W<hi rend="sup">ch</hi> digeſts, &amp; concocts our meat, if we put too much upon it to digeſt, and concoct, it languiſheth, and loo<g ref="char:EOLhyphen"/>ſeth it's power and faculty: and our naturall life, conſiſting in the good of that heat, the more of that heat is conſumed, the more our life is ſhortned.</p>
+            <p n="2">2. Secondly, as it is a prolonger of life, ſo it is a preſerver of health: and a life (though long) without health, is but tedious and grievous. <hi>A wholeſome ſleep</hi> (ſaith the ſame <hi>Syracides) commeth of a temperate belly,</hi>
+               <note place="margin">Syr. 31.20.</note> 
+               <hi>he riſeth up in the morning, and is well at eaſe in himſelfe, but paine in watching and cholericke diſeaſes and pangs of the belly, are with an unſa<g ref="char:EOLhyphen"/>tiable man.</hi> And this was the opini<g ref="char:EOLhyphen"/>on of the learned Phyſitian <hi>Hippocra<g ref="char:EOLhyphen"/>tes. The beſt remedy</hi> (ſaith he) <hi>to preſerve health, is not to over-loade the ſtomacke with meat.</hi> The reaſon is, becauſe when the naturall heat (we ſpake of before) is done, and ſpent, if more be taken, before the
+<pb n="47" facs="tcp:115001:31"/>firſt be concocted, a maſſe of putrifi<g ref="char:EOLhyphen"/>ed humours, and crudities abound, which is the cauſe of many diſeaſes, and which a body, that is abſtemious, is free from.</p>
+            <p n="3">3. To theſe might be added, that it preſerves a mans temporall eſtate, preſerves the taſte, and appetite, with divers other beneſits, which are got<g ref="char:EOLhyphen"/>ten by Faſting, but this is not our ſcope. I ſhall let you ſee what ſpiri<g ref="char:EOLhyphen"/>tuall benefits are obtained by Fa<g ref="char:EOLhyphen"/>ſting.</p>
+            <p n="1">1. It is a corrective, for ſins paſt, and a preſervative, for the time to come. It chaſtiſeth and puniſheth the fleſh, that formerly (being pam<g ref="char:EOLhyphen"/>pered) was apt to ill, and unfit for good; and maketh it apt to receive all good impreſſions, and graces of the holy Spirit.</p>
+            <p n="2">2. It cures dullneſſe in Prayer: for the Spirit, which by fullnes of bread, was drouſie and heavy, is, by it, rou<g ref="char:EOLhyphen"/>ſed up, and made light and apt to pray. <hi>I humbled my ſoule with fa<g ref="char:EOLhyphen"/>ſting</hi> (ſaith <hi>David) and my prayer returned into my boſome.</hi>
+               <note place="margin">Pſ. 35.13,</note> 
+               <hi>Bernard</hi>
+               <pb n="48" facs="tcp:115001:32"/>ſaith, <hi>That Faſting and Prayer are ſo interlaced and woven togither, that they cannot be ſeparated: Prayer obtaines the vertue of Faſting, and Faſting the grace of Prayer. Fasting corroborates Trayer, and Prayer ſan<g ref="char:EOLhyphen"/>ctifies Faſting.</hi> and this is a true religious Faſt, when the out<g ref="char:EOLhyphen"/>ward man Faſts, and the inward prayes.</p>
+            <p n="3">3. It cures all dejection of ſpirit. For wheras it is a part of the office of the holy Ghoſt, to comfort thoſe that are comfortleſſe for the love of God, as ſoon as their ſoule refuſeth the com<g ref="char:EOLhyphen"/>forts of the fleſh, he preſently mini<g ref="char:EOLhyphen"/>ſters ſpirituall comfort to them, and removes all things, that may any way deject them. And this the Holy Spirit ſeemes to intimate, when he ſaith,<note place="margin">Prov. 31.6.</note> 
+               <hi>Date Siceram,</hi> give ye ſtrong drinke, to him that is ready to periſh. For that heavenly wine, wherewith the Apoſtles ſeemed to be made drunke, upon the Feaſt of <hi>Pentecoſt,</hi> is not given to thoſe that are full of the wine of worldly conſolation; but to thoſe, who for the love of
+<pb n="49" facs="tcp:115001:32"/>God, abſtain from it. For the <hi>Phy<g ref="char:EOLhyphen"/>ſitian is not ſent to the whole,</hi>
+               <note place="margin">Mat. 9.12.</note> nor the Spirit of God, to thoſe, that are only filled with worldly comfort: but his comfort refreſheth the ſoule of thoſe, that have a multitude of ſor<g ref="char:EOLhyphen"/>rowes in their heart.</p>
+            <p n="4">4. It conduceth much to encreaſe of ſpirituall wiſdom and underſtan<g ref="char:EOLhyphen"/>ding, which fullneſſe abates. It is the conſtant tenet of all good men, that nothing more dulls the underſtan<g ref="char:EOLhyphen"/>ding, then repletion. And therfore, one ſaith very fitly, that as in this greater World, when many groſſe va<g ref="char:EOLhyphen"/>pors aſcend from the earth, the ayre is darkned, and thickned with clouds, which hinder our ſight, from the cleare aſpect of Heaven. So in this leſſer world <hi>(Man)</hi> when the ſto<g ref="char:EOLhyphen"/>mach is replete with meate, groſſe and thick vapors aſcend into the head, which darken, and obſcure the vertues of the ſoule, which ſerve the underſtanding in its operations. <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> ſaith,<note place="margin">In Camic.</note> that fullnes dulls the ſhar<g ref="char:EOLhyphen"/>peſt wit, and overthrowes the under<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <pb n="50" facs="tcp:115001:33"/>
+            <p n="5">5. It is profitable againſt all kinds of Temptations, whenſoever they a<g ref="char:EOLhyphen"/>riſe, and this is no ſmall priviledge, And therfore it was, that our Saviour (for example to us) ſtrengthned him<g ref="char:EOLhyphen"/>ſelf with 40. dayes faſting, when he was to be <hi>led into the Wilderneſſe, to be tempted of the Devill;</hi>
+               <note place="margin">Mat. 4.2.</note> not that he had need of this Armor, but for our in<g ref="char:EOLhyphen"/>ſtruction; to give us to underſtand, that faſting was the beſt remedy a<g ref="char:EOLhyphen"/>gainſt the aſſaults of the Devill.<note place="margin">Ad Cel.</note> 
+               <hi>Je<g ref="char:EOLhyphen"/>rome</hi> ſaith, <hi>Ardentes Diaboli ſagittae je<g ref="char:EOLhyphen"/>juniorum &amp; vigiliarum frigore reſtrin<g ref="char:EOLhyphen"/>guendae ſunt.</hi> The hot darts of the De<g ref="char:EOLhyphen"/>vill, are to be reſtrained, by the cold<g ref="char:EOLhyphen"/>nes of faſting and watching.</p>
+            <p n="6">6. Beſides all theſe, it hath this effi<g ref="char:EOLhyphen"/>cacy: that being joyned with prayer, it pierceth the heavens, and beſiegeth the mercy of God, obteyning What<g ref="char:EOLhyphen"/>ſoever it deſireth. It would take much time, to commemorate the ſpi<g ref="char:EOLhyphen"/>rituall, and temporall bleſſings, which have bin obteyned by faſting.<note place="margin">Dan. 10.3.</note> 
+               <hi>Daniel</hi> mourned full three weeks, and eate not <hi>panem deſiderabilem,</hi> no pleaſant bread, neither came there fleſh or
+<pb n="51" facs="tcp:115001:33"/>wine within his mouth, and he was thereby fitted to receive and inter<g ref="char:EOLhyphen"/>pret <hi>Divine Mysteries</hi> and <hi>Revela<g ref="char:EOLhyphen"/>tions.</hi> By faſting,<note place="margin">Eſth. 4.</note> 
+               <hi>Eſther</hi> averted the cruell ſentence of the King againſt the <hi>Jewes,</hi> and turned his wrath upon their adverſaries. What ſhall I ſay of <hi>Moſes, Elias, Sampſon, John Baptiſt,</hi> all famous in their generations for faſting, and performing great and wonderfull things? <hi>Faſting</hi> is a Sacrifice, as well as <hi>Almes</hi> and <hi>Pray<g ref="char:EOLhyphen"/>er,</hi> when the body is troubled by <hi>mor<g ref="char:EOLhyphen"/>tification,</hi> as the ſpirit by <hi>devotion.</hi> Therefere let us <hi>Fast,</hi> There is a <hi>Cum jejunatis,</hi>
+               <note place="margin">Mat 6.16.</note> a time when we are to Faſt, and the moſt proper, when danger approacheth. <hi>Jehoſaphat</hi> faſted,<note place="margin">2 Chro. 20, 3</note> upon the danger of the <hi>Moabites</hi> and <hi>Am<g ref="char:EOLhyphen"/>monites</hi> Forces. Qu. <hi>Eſther</hi> faſted,<note place="margin">Eſth. 4.16.</note> up<g ref="char:EOLhyphen"/>on the danger of the Kings <hi>Edict.</hi> The <hi>Ninivites</hi> faſted, upon the feare of <hi>deſtruction.</hi> S. <hi>Paul</hi> faſted, upon the danger of the <hi>Ships</hi> drowning.<note place="margin">Ioh 3.5. Act. 7.21.</note> And are not we in as great danger as any of theſe? Why ſhould not we then <hi>Faſt</hi> as they did? I know, it is <hi>Durus ſermo,</hi> and am afraid, we ſhall
+<pb n="52" facs="tcp:115001:34"/>be like the <hi>Young-man</hi> in the Goſpell,<note place="margin">Mat. 9.</note> as loath to leave our <hi>exceſſe,</hi> as he his <hi>Poſſeſſions.</hi> It is obſerved to be our Nationall fault. But faſting being of ſuch excellency and neceſſity, I hope we ſhall be perſwaded to it. And ſo I come to the next.</p>
+            <p n="7">7. Which is <hi>Miſericordia,</hi> or the <hi>Workes of Mercy.</hi> We muſt not part <hi>Faſting</hi> and <hi>Almes. Quod ventri ſub<g ref="char:EOLhyphen"/>trahitur, pauperi detur.</hi> That muſt be given to the poore, that is taken from the belly.<note place="margin">Phil. 4 18. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 4. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> And this is <hi>a ſacrifice well pleaſing unto God. Cornelius</hi> was a devout man, and gave much <hi>Almes: and they came up into remembrance with God,</hi> as the <hi>Angel,</hi> and S. <hi>Peter</hi> told him. Now the <hi>Works</hi> of <hi>Mercy</hi> are divers, and ſet down by Chriſt himſelfe.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 25.35.</note> 1. <hi>Feeding</hi> the <hi>hungry.</hi> 2. Giving <hi>Drinke</hi> to them that <hi>thirſt.</hi> 3. <hi>Harbouring</hi> the <hi>Stranger.</hi> 4. <hi>Cloa<g ref="char:EOLhyphen"/>thing</hi> the <hi>naked.</hi>
+               <note place="margin">36.</note> 5. <hi>Viſiting</hi> the <hi>ſicke.</hi> 6. <hi>Releeving</hi> them that are in <hi>priſon.</hi> 7. To which we may adde the <hi>Bu<g ref="char:EOLhyphen"/>riall</hi> of the <hi>dead. Almes</hi> is compared by the Preacher to <hi>ſeede. In the mor<g ref="char:EOLhyphen"/>ning ſow ty ſeed,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 11.6.</note> 
+               <hi>and in the evening
+<pb n="53" facs="tcp:115001:34"/>let not thy hand reſt:</hi> and it reſem<g ref="char:EOLhyphen"/>bleth <hi>ſeed</hi> in 7 reſpects.</p>
+            <p n="1">1. In reſpect of the <hi>large ſcattering</hi> it,<note place="margin">2 Cor 9.6.</note> 
+               <hi>plena manu,</hi> by handfulls.</p>
+            <p n="2">2. Of the <hi>Diſcretion</hi> uſed in <hi>ſowing.</hi>
+            </p>
+            <p n="3">3. Of the <hi>cloſe covering</hi> it.</p>
+            <p n="4">4. Of the <hi>plentifull watering</hi> it.</p>
+            <p n="5">5. Of the <hi>loſſe</hi> of it for a <hi>time.</hi>
+            </p>
+            <p n="6">6. Of the <hi>expectation</hi> of the <hi>benefit.</hi>
+            </p>
+            <p n="7">7. Of the <hi>multiplying</hi> and <hi>encreaſe</hi> of it.</p>
+            <p>
+               <hi>Bleſſed is he</hi> (ſaith the Pſalmiſt) <hi>that conſidereth the poore and needy.</hi>
+               <note place="margin">Pſal 41.16. Mat.5.7.</note> And Bleſſed are the merciſull} (ſaith our Sa<g ref="char:EOLhyphen"/>viour) Now it is called <hi>Benedictio,</hi> or a <hi>Bleſſing,</hi> for divers reſpects.</p>
+            <p n="1">1. For the <hi>bleſſing</hi> from the Recei<g ref="char:EOLhyphen"/>ver.<note place="margin">Iob 31.20.</note> 
+               <hi>The loynes of the poore have ſ<g ref="char:EOLhyphen"/>ſed me</hi> (ſaith <hi>Iob</hi>) <hi>becauſe he was war<g ref="char:EOLhyphen"/>med with the fleece of my Sheepe:</hi> And The bleſſing of him that was ready to periſh was upon me.}<note place="margin">29 17.</note>
+            </p>
+            <p n="2">2. In regard of the <hi>Act</hi> it ſelfe.<note place="margin">Act. 20 35.</note> 
+               <hi>It is a more bleſſed thing to give, then to re<g ref="char:EOLhyphen"/>ceive: He that hath a good eye, ſhall be bleſſed, for he giveth of his bread to the poore.</hi>
+            </p>
+            <p n="3">3.<note place="margin">Pro. 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</note> In regard of <hi>retribution</hi> from
+<pb n="54" facs="tcp:115001:35"/>God to himſelfe, <hi>Come ye bleſſed,</hi> &amp;c.<note place="margin">Mat 25 36-</note>
+            </p>
+            <p n="4">4. In regard of a <hi>bleſſing</hi> upon his Poſterity.<note place="margin">Pſa. 37.26</note> 
+               <hi>The righteous is mercifull and lendeth, and his ſeede is bleſſed.</hi>
+            </p>
+            <p>
+               <hi>Ambroſe</hi> writing upon this Text [<hi>Bleſſed is he that conſidereth, or iud<g ref="char:EOLhyphen"/>geth wiſely of the poore,</hi> ſaith] <hi>Ille in<g ref="char:EOLhyphen"/>telligit ſuper pauperem, qui lar gitur pau<g ref="char:EOLhyphen"/>peri; nam quid prodest miſereri inopis, niſi alimoniam eidem largiaris?</hi> That man judgeth wiſely of the poore, that rele<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>veth him: for what good doth it, to pitty a poore man, if thou giveſt him no releefe.</p>
+            <p>The effects of this vertue be many. For,</p>
+            <p n="1">1. It makes a man beloved of God. <hi>God loveth a cheerfull giver.</hi>
+            </p>
+            <p n="2">2. It encreaſeth his temporall eſtate.<note place="margin">2 Cor 9.7. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4.18</note> 
+               <hi>His barnes ſhall be filled with abundance, and his preſſes ſhall burst with new wine.</hi>
+               <note place="margin">Pro. 3.10.</note> 
+               <hi>Faecundus eſt ager pau<g ref="char:EOLhyphen"/>perum, citò reddit donantibus fructum,</hi> ſaith <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g.</hi> The poore mans land is fruitfull, it quickly renders back fruit to the giver. But <hi>Jerome</hi> in this point, gives this caveat: <hi>Sunt qui pauperi<g ref="char:EOLhyphen"/>bus parum tribuunt, ut amplius acci<g ref="char:EOLhyphen"/>piant,
+<pb n="55" facs="tcp:115001:35"/>quae magis venditio appellan<g ref="char:EOLhyphen"/>da eſt, quam eleemoſyna.</hi> There are ſome, that give a little to the poore, with expectation, to receive more back, but this may rather be called a <hi>ſale,</hi> then an <hi>Almes.</hi>
+            </p>
+            <p n="3">3. It prolongeth <hi>life,</hi> as the Apoſtle ſpeaketh,<note place="margin">1 Tim. 4.8.</note> and cureth <hi>diſeaſes,</hi> as <hi>Da<g ref="char:EOLhyphen"/>niel</hi> ſaid to <hi>Nebuchadnezzar, Breake off thy ſinnes by Righteouſneſſe, and thy iniquities by Mercy to the poore. Sit obſecro ſanatio,</hi> let there be a hea<g ref="char:EOLhyphen"/>ling of thine error.<note place="margin">
+                  <hi>In</hi> Mat. <hi>S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m</hi> 9.</note> The great and ſtrongeſt <hi>medicine</hi> (ſaith <hi>Chryſoſt.</hi>) in <hi>Repentance,</hi> is <hi>Almes,</hi> for as in the preſcripts of <hi>Phyſick,</hi> among divers <hi>ingredients,</hi> one is moſt <hi>predominant,</hi> ſo in <hi>Repentance,</hi> there is one, which is <hi>Almes.</hi>
+            </p>
+            <p n="4">4. By it the Bowells of the Saints are comforted, as S. <hi>Paul</hi> ſpeakes to <hi>Philemon: Whereby God is honoured,</hi>
+               <note place="margin">Phil 7. Pro. 14.31.</note> The wiſeman ſaith, <hi>He honoureth his Maker, that hath mercy on the poore.</hi>
+            </p>
+            <p n="5">5. It encreaſeth a mans friends. <hi>Make ye friends</hi> (ſaith Chriſt) <hi>with the riches of iniquity.</hi>
+            </p>
+            <p n="6">6. It ſtrengtheneth <hi>Prayer,</hi>
+               <note place="margin">Luk. 16 9.</note> and is
+<pb n="56" facs="tcp:115001:36"/>one of the <hi>wings,</hi> that makes <hi>Prayer</hi> aſcend to God.<note place="margin">Acts 10.4.</note> 
+               <hi>Cornelius</hi> gave <hi>Almes, and his Prayer came up to God.</hi> For <hi>Prayer,</hi> without <hi>Almes,</hi> wants a <hi>wing,</hi> to elevate it. <hi>Fruſtra pro pecca<g ref="char:EOLhyphen"/>tis rogaturus, manus ad Deum expan<g ref="char:EOLhyphen"/>dit,</hi>
+               <note place="margin">
+                  <hi>In</hi> Mat. 12<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>qui has ad pauperes non extendit,</hi> ſaith <hi>Rabbanus.</hi> He holds up his hands in vaine to God, for his ſinnes, that ſtretcheth them not to releeve the poore: and <hi>Chryſ. Infirma eſt ora<g ref="char:EOLhyphen"/>tio,</hi>
+               <note place="margin">
+                  <hi>In</hi> Mat. 5.</note> 
+               <hi>quae eleemozynarum largitate non eſt munita.</hi> That <hi>Prayer</hi> is weake, that is not ſtrengthened with <hi>Almes.</hi> And he ſhuts the doore of Gods <hi>Mercy,</hi> that opens not the <hi>bowells</hi> of <hi>Mercy</hi> to the <hi>poore.</hi> It was one of the ſins, for which <hi>Sodome</hi> was deſtroyed,<note place="margin">Ezek. 16.49.</note> that ſhe did not <hi>strengthen the hands of the poore, and needy.</hi>
+            </p>
+            <p>I, but ſome will ſay, <hi>I have not much my ſelfe, how then can I give much to the poore?</hi> To this may be an<g ref="char:EOLhyphen"/>ſwered, God lookes not upon the <hi>quantum,</hi> how much, but <hi>ex quanto,</hi> out of how much thou giveſt. <hi>Qui multum dat &amp; qui parum, ſi aequa vo<g ref="char:EOLhyphen"/>luntas eſt, aequalem habet M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcedem.</hi>
+               <pb n="57" facs="tcp:115001:36"/>He that gives much, and he that gives little, if the mind be alike, ſhall have the like reward. The Apoſtle tells us, <hi>If there be a willing mind, it is accepted,</hi>
+               <note place="margin">2 Cor 8.12.</note> 
+               <hi>according to that a man hath.</hi> The <hi>Widowes mites</hi> were more acceptable to God,<note place="margin">Mat. 12.42.</note> then the <hi>Rich mens</hi> largo guifts: For <hi>a cup of cold water</hi> ſhall not goe unrewarded.<note place="margin">Mat 10.42.</note>
+            </p>
+            <p n="8">8. The laſt (but not the leaſt) Ingre<g ref="char:EOLhyphen"/>dient is <hi>Prayer:</hi> which being joyned with the former duties, will be able to prevaile with God for his ſupply in any thing we want, and for his protection, againſt any thing we feare. <hi>Oratio ſi pura ſit, coelo pene<g ref="char:EOLhyphen"/>trans,</hi>
+               <note place="margin">Ang.</note> 
+               <hi>vacua non redibit.</hi> Our prayer, (if it be qualified as it ought) pierceth the Heavens, and will not returne empty. For as <hi>Chryſoſtome</hi> ſaith, <hi>Ni<g ref="char:EOLhyphen"/>hil potentius homine or ante.</hi>
+               <note place="margin">
+                  <hi>In</hi> Mat. 6.</note> Nothing is more powerfull then a man when he prayeth. We may ſee it in one Example. <hi>Moſes ad bellum non vadit,</hi>
+               <note place="margin">
+                  <hi>In</hi> Levit</note> 
+               <hi>ſed or at, &amp; vincit</hi> Iſrael. <hi>Moſes</hi> went not to warre with the people of <hi>Iſrael</hi> but only prayes, and the peo<g ref="char:EOLhyphen"/>ple overcame their enemies, by the
+<pb n="58" facs="tcp:115001:37"/>ſtrength and force of his <hi>prayers.</hi>
+            </p>
+            <p>The definition of <hi>Prayer</hi> is thus. It is <hi>Piae mentis &amp; humilis ad Deum converſio, fide, spe &amp; charitate ſubnixa.</hi> A turning of a pious and humble mind to God, propped up with <hi>faith, hope</hi> and <hi>charity.</hi>
+            </p>
+            <p>The parts of it are many. As <hi>Inter<g ref="char:EOLhyphen"/>ceſſion, Thanksgiving, Invocation</hi> and <hi>Deprecation:</hi> but (becauſe I have ſpo<g ref="char:EOLhyphen"/>ken of them formerly) I ſhall onely touch againe the two laſt, as moſt properly conducing and ſuiting with this ſubject of <hi>Repen<g ref="char:EOLhyphen"/>tance:</hi> which are couched in a ſhort, but pertinent ſaying of one, declaring the effects of Prayer.<note place="margin">Caſſ.</note> 
+               <hi>Per orationem, venia peccatorum procuratur, &amp; ira Dei ſuſpenditur.</hi> By Prayer, pardon of ſinnes is obteyned, ther's the effect of <hi>Invocation,</hi> and Gods anger is defer<g ref="char:EOLhyphen"/>red or averted, that's the effect of <hi>Deprecation.</hi>
+            </p>
+            <p n="1">1. Firſt for that part of the effect of Prayer, which is remiſſion of ſin, we have Gods promiſe. <hi>If my people which are called by my name,</hi>
+               <note place="margin">2 Chro <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 14.</note> 
+               <hi>ſhall humble themſelves and pray, and ſeeke my face,
+<pb n="59" facs="tcp:115001:37"/>and turne from their wicked wayes: then will I heare from Heaven, and will forgive their ſinne, and will heale their Land.</hi>
+               <note place="margin">Iob 33.16,</note> So ſaith <hi>Elihu</hi> to <hi>Job</hi> (ſpea<g ref="char:EOLhyphen"/>king of a ſinner returning to God by Prayer) <hi>He ſhall pray unto God, and he will be favourable unto him, and he ſhall ſee his face with joy. David</hi> was confident in this point.<note place="margin">Pſa. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6 19<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Verily God hath heard me, he hath attended to the voice of my prayer.</hi> And in another place. <hi>The Lord is ready to forgive,</hi>
+               <note place="margin">86.5.</note> 
+               <hi>and plenteous in mercy to all that call upon him.</hi> And laſtly, S. <hi>James</hi> ſaith, <hi>The prayer of faith ſhall ſave the ſicke, and if he have committed ſins,</hi>
+               <note place="margin">Iames 5.15.</note> 
+               <hi>they ſhall be forgiven him.</hi>
+            </p>
+            <p n="2">2. In time of danger and affliction, or when any croſſe lyeth upon men, by reaſon of Gods anger for ſinne, the other part of <hi>Prayer</hi> is very preva<g ref="char:EOLhyphen"/>lent to avert it.<note place="margin">Pſa. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 15. Iames 5.13,</note> Wee have Gods promiſe for this alſo. <hi>Call upon me in the time of trouble, and I will deli<g ref="char:EOLhyphen"/>ver thee.</hi> And it is the counſell of S. <hi>James. Is any afflicted? let him pray.</hi> We ſee the holy men of God ever uſed this recepit. K. <hi>Hezekiah</hi> being
+<pb n="60" facs="tcp:115001:38"/>in danger of death,<note place="margin">2 Reg 20.5.</note> 
+               <hi>prayed,</hi> and God tells him, <hi>he had heard his prayer. Jo<g ref="char:EOLhyphen"/>hoaz</hi> (being in danger of being over<g ref="char:EOLhyphen"/>run by <hi>Hazael</hi> K. of <hi>Aſſyria</hi>) pray<g ref="char:EOLhyphen"/>ed, and the Lord delivered him. <hi>Da<g ref="char:EOLhyphen"/>niel</hi> upon danger approaching,<note place="margin">13 4. Dan. 6.10.</note> 
+               <hi>prayed three times a day,</hi> and the Lord heard him. <hi>Jonas</hi> being in danger, in the Whales belly,<note place="margin">Ion 2.1.10.</note> 
+               <hi>in the ſea prayed, and God cauſed the fiſh to caſt him out, upon the dry land.</hi>
+               <note place="margin">Acts 16.25.</note> 
+               <hi>Paul</hi> and <hi>Silas</hi> being in priſon, <hi>prayed to the Lord, and he forth<g ref="char:EOLhyphen"/>with delivered them. David</hi> ſaith, <hi>God will regard the prayer of the deſti<g ref="char:EOLhyphen"/>tute</hi> (of all help) <hi>and not despiſe their prayer.</hi>
+               <note place="margin">Pſ. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7.</note> And this is the ſecond benefit that comes by Prayer.</p>
+            <p>Now for the place of <hi>Prayer,</hi> though it be to be made <hi>in omni loco,</hi> as the Apoſtle enjoynes, <hi>every where,</hi> (as by <hi>Daniel</hi> in the <hi>den, Job</hi> upon the <hi>dunghill, Jonas</hi> in the <hi>Sea,</hi> our Saviour in a <hi>garden,</hi> and <hi>Paul</hi> and <hi>Silas</hi> in <hi>priſon</hi>) yet is this duty more eſpecially appropriated to two pla<g ref="char:EOLhyphen"/>ces. I. Publick. 2. Private.</p>
+            <p n="1">1. The Publick place is the great Congregation, <hi>My praiſe</hi> (ſaith
+<pb n="61" facs="tcp:115001:38"/>
+               <hi>David) ſhall be of thee in the great Congregation.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſal 22.25.68.26.</note> 
+               <hi>I will pay my vowes be<g ref="char:EOLhyphen"/>fore them that feare thee. And bleſſe ye God in the great Congregation.</hi>
+               <note place="margin">29.9.48.9.</note> Which he expounds in other places, to be the Church or Temple. And which the Prophet tells us, that God will have called, <hi>Domus Orationis,</hi> the houſe of Prayer, <hi>Eccleſia eſt ſingularis fidelium uniuſcujuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> civitatis Congregatio.</hi> ſaith <hi>Hugo.</hi>
+               <note place="margin">Eſa. 56.7.</note> There in deed it is, that God deſireth eſpecially to be prayed too: and where, by the unity of many ſoules in prayer, the greateſt bleſſings may be ſooneſt obteyned. For pub<g ref="char:EOLhyphen"/>lick prayer is compared to a ſtorme of ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le, pjercing the Heavens, and the Fathers ſay, that the <hi>Amen</hi> in the Primitive Church, was like a clap of thunder. And thereupon S. <hi>Ambroſe</hi> ſaith,<note place="margin">De Poe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</note> 
+               <hi>Multi minimi dum congregan<g ref="char:EOLhyphen"/>tur unamines, ſunt magni: &amp; multorum preces impoſſibile eſt contemni.</hi> Many little ones being met unanimouſly, become great, and it is impoſſible, that the prayers of many ſhould be deſpiſed.</p>
+            <p n="2">2. Private is twofold. 1. In a mans
+<pb n="62" facs="tcp:115001:39"/>Family; and every <hi>Pater familias,</hi> father of a Family, is bound, not only to ſee, that thoſe which are under his government, do frequent publike aſſemblies, to performe the duties before mentioned, but to ſee them do it in his private houſe alſo. He muſt ſay with <hi>Ioſhua,</hi>
+               <note place="margin">Ioſh. 24.15.</note> 
+               <hi>Ego &amp; domus mea,</hi> I and my houſe will pray to the Lord.</p>
+            <p>And at this exerciſe Chriſt hath promiſed his aſſiſtance,<note place="margin">Mat. 18.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> 
+               <hi>Where two or three are gathered together in my Name, there am I in the midſt of them.</hi>
+            </p>
+            <p>The ſecond is <hi>in Cubiculo.</hi> Prayer muſt be in a mans cloſet. 1. Which is either litterally taken, as when a man retireth himſelfe, to pray to the Lord in ſome private place without diſturbance. 2. Or as the Fathers gloſſe upon that Text <hi>[when thou pray<g ref="char:EOLhyphen"/>eſt enter into thy cloſet] Quae ſunt iſta cubicula,</hi>
+               <note place="margin">Mat 6 6.</note> &amp;c. what are theſe cloſets, but the hearts of men? according to that of the <hi>Pſalmiſt,</hi>
+               <note place="margin">
+                  <hi>Pſ 4.4.</hi> Aug de ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. Dommi in monte.</note> 
+               <hi>Com<g ref="char:EOLhyphen"/>mune with your owne heart upon your bed.</hi> And <hi>Ambroſe</hi> ſaith, <hi>Intellige cubiculum non incluſum pa<g ref="char:EOLhyphen"/>rietibus,</hi>
+               <pb n="63" facs="tcp:115001:39"/>&amp;c. You are to underſtand by the word <hi>[cloſet]</hi> not that which is encloſed with wals,<note place="margin">De Cain &amp; Abel. c. <hi>8.</hi>
+               </note> and wherin thy body is ſhut; but the cloſet, that is within thee, wherin are incloſed thy thoughts. This thy cloſet is every where with thee, and is every where ſecret, the ſearcher whereof is God, and no other.</p>
+            <p>Now that our Prayers may be the more prevalent, either in publike or private, it is neceſſary that we obſerve theſe Rules.</p>
+            <p n="1">1. Our prayers muſt be offered to God the Father, in the name and me<g ref="char:EOLhyphen"/>diation, and for the merits of his be<g ref="char:EOLhyphen"/>loved Sonne Chriſt Jeſus,<note place="margin">Mat. 3.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7. Eſa. 41 1. Eph 3.11.</note> 
+               <hi>in Whom he is well-pleaſed: His elect, in whom his ſoule delighteth. In and by whom we have boldnes and acceſſe to the throne of grace.</hi>
+               <note place="margin">Iob. 16.23,</note> 
+               <hi>And whatſoever we ſhall aske the Fa<g ref="char:EOLhyphen"/>ther in his name, he will give it us.</hi>
+            </p>
+            <p n="2">2. They muſt be hearty, from the heart and ſoul, as <hi>Davids</hi> did. <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>to thee ô Lord, doe I lift up my ſoule:</hi>
+               <note place="margin">Pſal: 25.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and as he counſels others, <hi>ye people powre out your hearts before him.</hi>
+               <note place="margin">Pſal: 62.8,</note>
+            </p>
+            <p n="3">3. They muſt be offered with all hu<g ref="char:EOLhyphen"/>mility,
+<pb n="64" facs="tcp:115001:40"/>like to the prayers of <hi>Abra<g ref="char:EOLhyphen"/>ham.</hi>
+               <note place="margin">Gen 18.17.32.10.</note> 
+               <hi>Behold I have taken upon me to speake unto the Lord, which am but duſt and aſhes;</hi> and to that of <hi>Jacob, Non ſum dignus, I am not worthy the leaſt of all thy mercies:</hi> and to that of the <hi>Publican,</hi> that would not lift up his eyes to Heaven,<note place="margin">Luc. 18.13.</note> but ſtood <hi>à longè, a far off, and ſmote his breſt, ſaying, God be mercifull to me a ſinner.</hi>
+            </p>
+            <p n="4">4. Fourthly, with fervency. For <hi>Quanto graviori miſeria premitur, tan<g ref="char:EOLhyphen"/>to orationi inſiſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re ardentiùs debemus.</hi>
+               <note place="margin">Greg. Mor.</note> By how much the more grievouſly we are afflicted, ſo much the more ardently we ſhould betake our ſelves to prayer. As the caſe ſtands with us,<note place="margin">Theſſ <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 17</note> 
+               <hi>we muſt pray without ceaſing.</hi>
+            </p>
+            <p n="5">5. Laſtly, we muſt offer our prayers to God only. <hi>Chryſoſtome</hi> upon the words of the woman of <hi>Canaan</hi> to Chriſt <hi>[Lord have mercy upon me]</hi> ſaith, <hi>vide prudentiam mul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eris. Non regat</hi> Jacobum, <hi>&amp;c.</hi> Obſerve the wo<g ref="char:EOLhyphen"/>mans wiſdome. She prayeth not to <hi>James,</hi> nor doth ſhe intreat <hi>Iohn,</hi> nor goes ſhe to <hi>Peter,</hi> nor any of the A<g ref="char:EOLhyphen"/>poſtles, ſhe fought no Mediatour for
+<pb n="65" facs="tcp:115001:40"/>her ſuit. So much briefly for the rules or directions in prayers.</p>
+            <p>Seeing then that in the firſt place,<note place="margin">Eſa 59.2:</note> 
+               <hi>our iniquities have ſeparated between God and us,</hi> Let us follow the Pro<g ref="char:EOLhyphen"/>phets counſell, and take <hi>words</hi> unto us, and <hi>turne</hi> to the <hi>Lord</hi> by <hi>Prayer, and ſay unto him. O Lord, take away all iniquity,</hi>
+               <note place="margin">Hoſ. 14.3.</note> 
+               <hi>and receive us graciouſly.</hi> 2. And ſecondly in as much as this ſe<g ref="char:EOLhyphen"/>paration hath brought a juſt judge<g ref="char:EOLhyphen"/>ment upon us, let us humble our ſelvs with another Prophet, and ſay. <hi>O Lord,</hi>
+               <note place="margin">Dan, 9.4,</note> 
+               <hi>the great and dreadfull God, kee<g ref="char:EOLhyphen"/>ping the covenant, and mercy to them, that love him, and keepe his Comman<g ref="char:EOLhyphen"/>dements.</hi>
+            </p>
+            <p>
+               <hi>We have ſinned,</hi>
+               <note place="margin">5.</note> 
+               <hi>and have committed iniquity, and have done wickedly, and have rebelled by departing from thy pre<g ref="char:EOLhyphen"/>cepts and judgements.</hi>
+            </p>
+            <p>
+               <hi>Neither have we hearkned to thy ſer<g ref="char:EOLhyphen"/>vants the Prophets,</hi>
+               <note place="margin">6.</note> 
+               <hi>which spake in thy name to our Kings, our Princes, and our Fathers, and all the people of the Land.</hi>
+            </p>
+            <p>
+               <hi>O Lord, to us belongeth confuſion of face,</hi>
+               <note place="margin">8.</note> 
+               <hi>becauſe we have ſinned againſt thee.</hi>
+            </p>
+            <pb n="66" facs="tcp:115001:41"/>
+            <p>
+               <hi>To the Lord belong mercies and for<g ref="char:EOLhyphen"/>giveneſſes,</hi>
+               <note place="margin">Dan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 9.9.</note> 
+               <hi>though we have rebelled a<g ref="char:EOLhyphen"/>gainſt him.</hi>
+            </p>
+            <p>
+               <hi>O Lord,</hi>
+               <note place="margin">16.</note> 
+               <hi>according to all thy righte<g ref="char:EOLhyphen"/>ouſneſſe, we beſeech thee let thine anger and thy fury be turned away from this Land, which is called by thy Name: be<g ref="char:EOLhyphen"/>cauſe for our ſinnes, and for the iniquity of our Fathers, we are become a reproach to all that are about us.</hi>
+            </p>
+            <p>
+               <hi>Now therefore,</hi>
+               <note place="margin">17</note> 
+               <hi>O God, heare the pray<g ref="char:EOLhyphen"/>ers of thy ſervants, and their ſupplicati<g ref="char:EOLhyphen"/>ons, and cauſe thy face to ſhine upon us that are deſolate, for the Lords ſake.</hi>
+            </p>
+            <p>
+               <hi>O our God,</hi>
+               <note place="margin">18</note> 
+               <hi>encline thine eare, and heare, open thine eyes, and behold our de<g ref="char:EOLhyphen"/>ſolations. For we doe not preſent our ſupplications before thee, for our righte<g ref="char:EOLhyphen"/>ouſneſſe, but for thy great mercies.</hi>
+            </p>
+            <p>
+               <hi>O Lord heare,</hi>
+               <note place="margin">19</note> 
+               <hi>O Lord forgive, O Lord hearken and doe: deferre not for thine own ſake, O God, for this Land, and the people are called by thy Name.</hi>
+            </p>
+            <p>Thus much for prayer.</p>
+            <p>And thus have we taken a view, 1. Of our miſerable condition by rea<g ref="char:EOLhyphen"/>ſon of Gods heavy hand upon us. Secondly of the cauſe of his viſitation,
+<pb n="67" facs="tcp:115001:41"/>which is our heinous ſin, and tranſ<g ref="char:EOLhyphen"/>greſſion, 3. And laſtly, of the Cure, which is to be wrought by repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>In which I have preſumed (<hi>ultra crepidam,</hi> I confeſſe) to act the Phyſi<g ref="char:EOLhyphen"/>tians part, and to preſcribe what in<g ref="char:EOLhyphen"/>gredients are to be put to the making of the <hi>Doſis</hi> of Repentance, <hi>ſecundum artem,</hi> that it may worke with effect. I dare ſay, they may be taken ſafely, there are no Minerals in it. Nay let me tell you, except they be taken, there will be no hope of recovery. And as much muſt be taken (if not <hi>q.s.</hi>) as our poore and weake nature (enfeebled with the long cuſtome of ſin) will beare: not nicely or per<g ref="char:EOLhyphen"/>functorily upon a knives point, as a taſte, to ſee whither we can reliſh it or no, but the whole Bole if we can: and then by Gods bleſſing and aſſiſt<g ref="char:EOLhyphen"/>ance, we ſhall nor need to doubt of the cure. <hi>Probatum eſt,</hi> it hath paſt the Teſt long ſince, above 2000 years, by <hi>Ahah,</hi> and the <hi>Ninivites,</hi> neither of them ſound in Religion, nor ha<g ref="char:EOLhyphen"/>ving all theſe Ingredients in their
+<pb n="68" facs="tcp:115001:42"/>preſcript; and it hath bin practiſed and uſed with good ſucceſſe, divers times ſince. Let us therefore ſpeedi<g ref="char:EOLhyphen"/>ly take it, and no doubt, but it will have the ſame effect theirs had.</p>
+            <p>One thing give me leave to adde, that we muſt fully reſolve our ſelves, that Repentance is an Act, not a ſpe<g ref="char:EOLhyphen"/>culative or theoreticall, but a practi<g ref="char:EOLhyphen"/>call duty.<note place="margin">Mat. 3.7.</note> The <hi>Baptist</hi> tels us of an <hi>Ira ventura, a wrath to come,</hi> and gives us charge to repent, with two active verbes.</p>
+            <p n="1">1. <hi>Agite Poenitentiam,</hi> ſettle your ſelves to repent, there is ſomewhat more in it, then hearing or reading of it, what it is (for though that be <hi>unum neceſſarium,</hi> yet is it not <hi>unicum</hi>) the only neceſſary thing.</p>
+            <p n="2">2.<note place="margin">8.</note> The other is <hi>facite,</hi> or <hi>proferte fructus dignos poenitentiae,</hi> doe, or bring <hi>forth fruits worthy of Repentance,</hi> and that to free us, <hi>ab ira ventura, propter peccat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> praeterita, from wrath to come,</hi> for ſins paſt.</p>
+            <p>It were to be wiſhed, that it were yet, <hi>Ira ventura,</hi> that it were to come, but (the more wretched our conditi<g ref="char:EOLhyphen"/>on)
+<pb n="69" facs="tcp:115001:42"/>It is <hi>Ira accenſa,</hi> the anger of the Lord is kindled, ſome have already felt the heat of it.</p>
+            <p>And let us tell our ſelves, that we are no leſſe ſinners in this part of the Land, then they that have already felt it.<note place="margin">Luc. 13.4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>50</note> 
+               <hi>They upon whom the Tower of</hi> Si<g ref="char:EOLhyphen"/>loe <hi>fell, were not ſinners above all men, that dwelt in</hi> Jeruſalem: Let us apply this to our ſelves, and that which followeth in the next verſe, <hi>Except we repent, we ſhall all likewiſe pe<g ref="char:EOLhyphen"/>riſh.</hi>
+            </p>
+            <p>God hath long time tendered good <hi>Quarter,</hi> good <hi>conditions of peace,</hi> and we have ſtill ſtood out in rebelli<g ref="char:EOLhyphen"/>on. It is reported of <hi>Tamberlaine,</hi> that when he beſieged a City, the firſt day he diſplayed a white flag before it, and upon that day the beſieged might have reaſonable conditions. If they yeelded not that day, up<g ref="char:EOLhyphen"/>on the ſecond he ſet up a red flag, and on that day, they might have conditions, but they were harder, then the former. And the third day (the two former being rejected) he hung out a black flag, and then no
+<pb n="70" facs="tcp:115001:43"/>conditions, no quarter would bee granted. So, God hath diſplayed his white flagge of peace, and we have careleſly neglected it, and he hath now hung out his red flagge of wrath. Harder conditions are come upon us. Now, though wee have been ſo obſtinate to him, and feareleſſe of our owne miſery hi<g ref="char:EOLhyphen"/>therto; let us quickly take hold of his conditions, leſt he hang out the blacke and diſmall flagge, to our utter deſolation and deſtruction.</p>
+            <p>And let us, even all of us, in the publike Congregation, and in our private Families and cloſets, fall downe and humble our ſelves before Almighty God, and implore his pardon and grace; and let us truly repent us of our former ſins, with purpoſe of living better here<g ref="char:EOLhyphen"/>after: and no doubt, but God will repent him of his wrath againſt us; and ſay to his Angell, <hi>Sufficit.</hi> It is ſufficient, enough, ſtay now thy hand; If we turne from our ſinnes, he will turne from puniſhing us, for them. If we walke in the ſtatutes
+<pb n="71" facs="tcp:115001:43"/>of the Lord,<note place="margin">Luc. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> he will give peace in our Land, and we ſhall <hi>lye downe and none ſhall make us afraid, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall the ſword goe through our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. We ſhall have peace in our houſes, and peace to all that we have.</hi>
+               <note place="margin">1 Sam: 25.6.</note> 
+               <hi>The voice of ioy and ſalvation ſhall be in our Laber<g ref="char:EOLhyphen"/>nacles.</hi>
+               <note place="margin">Pſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8 15.</note> 
+               <hi>We ſhall reioyce both young men and old together, and our mourning ſhall be turned into ioy</hi> Nay God him<g ref="char:EOLhyphen"/>ſelfe will rej<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yce in our Land, and joy in us his people, <hi>and the voice of weeping ſhall be no more heard in it,</hi>
+               <note place="margin">Ier. 21.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>nor-the voice of crying.</hi>
+               <note place="margin">Eſa: 65.19.</note> 
+               <hi>He will reioyce over us to doe us good, and place us in this land with stability.</hi>
+            </p>
+            <p>
+               <hi>The God of peace, will be peace unto us.</hi>
+               <note place="margin">Ien 32.41.</note>
+            </p>
+            <p>
+               <hi>Chriſt (the Prince of peace) will be our peace.</hi>
+               <note place="margin">Rom: 15.33</note>
+            </p>
+            <p>
+               <hi>The Spirit of peace and unity,</hi>
+               <note place="margin">Eſa <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.6 Eph: 2.14 Gal: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note> 
+               <hi>will keepe us in peace and love.</hi>
+            </p>
+            <p>Laſtly,<note place="margin">Eph: 4.3. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Reg. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 20 Rom: 14.17. Luc: 19.38.</note> we ſhall not only live here in peace, <hi>but we ſhall be gathered to our fathers, and to our grave sin peace.</hi> And after this life, <hi>enioy everlaſting peace;</hi> we ſhall have <hi>peace and ioy in the holy Ghoſt here, and peace in Heaven hereafter.</hi> All which he grant us, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:115001:44"/>
+            <pb n="73" facs="tcp:115001:44"/>
+            <head>Poenitentiall <hi>Prayers.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">L</seg>Et us redeeme the time,<note place="margin">Eph. 5.16.</note> becauſe the dayes are evill.</p>
+            <p>And let us repent,<note place="margin">Acts 3.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and turne from our wicked<g ref="char:EOLhyphen"/>neſſe, and our ſinnes ſhall be forgiven us.</p>
+            <p>Let every one turne from his evill way:<note place="margin">Ion. 3.8.9.</note> for who can tell, if God will turne and repent, and turne from his fierce an<g ref="char:EOLhyphen"/>ger, that we periſh not?</p>
+            <div type="prayer">
+               <p>POnder our wordes ô Lord, and conſi<g ref="char:EOLhyphen"/>der our meditation.<note place="margin">Pſal 51:</note>
+               </p>
+               <p>Oh hearken unto the voice of our cal<g ref="char:EOLhyphen"/>ling, our King, and our God, for unto thee, doe we make our prayers.</p>
+               <p>Oh God,<note place="margin">22.20</note> We cry in the day time, and thou heareſt not, and in the night ſea<g ref="char:EOLhyphen"/>ſon
+<pb n="74" facs="tcp:115001:45"/>alſo, we take no reſt.</p>
+               <p>Thine indignation lyeth hard upon us,<note place="margin">86.6</note> and thou haſt vexed us, with all thy ſtormes.</p>
+               <p>Thy wrathfull diſpleaſure goeth over us,<note place="margin">16.</note> and the feare of thee hath undone us.</p>
+               <p>Thou haſt given us over to the ſword, and art wrath with thine inheritance.<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>Thou feedeſt us with the bread of teares,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.5.</note> and giveſt us plenty of teares to drinke.</p>
+               <p>Thou haſt made us a very ſtrife to our neighbours,<note place="margin">6.</note> and our enemies laugh us to ſoorne.</p>
+               <p>
+                  <hi>O Lord we acknowledge</hi> that all this is come upon us,<note place="margin">Pſr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 9.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 13.117.</note> for our evill deeds, <hi>and that</hi> thou ô Lord art righteous, and thy judgements upright.</p>
+               <p>Becauſe we have not hearkned to thy word,<note place="margin">Ier. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7.</note> nor to thy law, but reiected it, thou haſt brought evill upon this Na<g ref="char:EOLhyphen"/>tion.</p>
+               <p>We have bin diſobedient, and rebelled againſt thee,<note place="margin">N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 9.16.</note> and cast thy Law behind our backs.</p>
+               <p>We have ſinned,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 7.10.</note> what ſhall we doe to
+<pb n="75" facs="tcp:115001:45"/>thee, ô thou preſerver of men? Why haſt thou ſet us as a marke againſt thee, ſo that we are burdens to our ſelves?</p>
+               <p>Lord we cover not our tranſgreſ<g ref="char:EOLhyphen"/>ſions with <hi>Adam,</hi>
+                  <note place="margin">Iob 11.13.</note> by hiding our iniqui<g ref="char:EOLhyphen"/>ties.}</p>
+               <p>But we abhorre our ſelves,<note place="margin">Pſ. 41.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.41.4.</note> and ear<g ref="char:EOLhyphen"/>neſtly repent and ſay, Lord be merci<g ref="char:EOLhyphen"/>full to us, hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e our ſouls, for we have ſinned against thee.</p>
+               <p>
+                  <hi>Take notice ô Lord of our mi<g ref="char:EOLhyphen"/>ſery,</hi>
+               </p>
+               <p>Out of the deep <hi>of miſery and affli<g ref="char:EOLhyphen"/>ction</hi> have we called to thee ô Lord,<note place="margin">130.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> Lord heare our voyce.</p>
+               <p>Oh, let thine eares conſider the voyce of our complaint.<note place="margin">2.</note>
+               </p>
+               <p>Enter not into iudgement <hi>(we hum<g ref="char:EOLhyphen"/>bly pray thee)</hi> with thy ſervants ô Lord, for in thy ſight ſhall no man living be iuſtified.<note place="margin">143.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+               </p>
+               <p>The Heavens are not cleane in thy ſight.<note place="margin">Iob 15 15.</note>
+               </p>
+               <p>How much more abhominable and filthy is man,<note place="margin">16.</note> that drinkes iniquity like water.</p>
+               <pb n="76" facs="tcp:115001:46"/>
+               <p>
+                  <hi>Remember ô Lord the infirmitie of our nature.</hi>
+               </p>
+               <p>
+                  <hi>Conſider,</hi> that of our ſelves we are but weake.<note place="margin">Iſal 6<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>That we are but fleſh,<note place="margin">78.39.</note> a wind that paſſeth away, and commeth not a<g ref="char:EOLhyphen"/>gaine.</p>
+               <p>Thou knoweſt ô Lord whereof we are made,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>03 14.</note> thou remembreſt that we are but duſt.</p>
+               <p>That our dayes are but as graſſe, and as a flower of the field,<note place="margin">15<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 16.</note> over which, as ſoone as the wind goeth, it is gone, and the place thereof ſhall know it no more.</p>
+               <p>
+                  <hi>Remember alſo O Lord, thine own nature.</hi>
+               </p>
+               <p>That thou art full of compaſſion,<note place="margin">8.</note> and mercy, long ſuffering, and of great good<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>That thou canſt not be alwayes chi<g ref="char:EOLhyphen"/>ding,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> nor keepe thine anger for e<g ref="char:EOLhyphen"/>ver.</p>
+               <p>That thou are good and gracious,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. 5.</note> and of great mercy to all that call
+<pb n="77" facs="tcp:115001:46"/>upon thee.</p>
+               <p>That thou art loving to every man,<note place="margin">Pſal: 145.5<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> and that thy mercy is over all thy works.</p>
+               <p>That when thou puniſheſt,<note place="margin">Eſa. 28.21.</note> it is not thy proper worke, and that thine own worke is mercy.</p>
+               <p>
+                  <hi>Remember ô Lord thy Name.</hi>
+               </p>
+               <p>The Lord, the Lord God,<note place="margin">Exod 34.6.</note> mercifull and gracious, long ſuffering, and abun<g ref="char:EOLhyphen"/>dant in goodneſſe, and truth.</p>
+               <p>
+                  <hi>That thou art</hi> a Father of Mer<g ref="char:EOLhyphen"/>cies.<note place="margin">2 Cor. 1.3.</note>
+               </p>
+               <p>
+                  <hi>Remember thy Sons Name.</hi>
+               </p>
+               <p>
+                  <hi>That he is called</hi> the Lamb,<note place="margin">Ioh 1.26.</note> that taketh away the ſins of the World.</p>
+               <p>
+                  <hi>That he is called</hi> the Redeemer of the World.<note place="margin">Iob 19 25. Pſal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 9 14. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itus 2 14.</note>
+               </p>
+               <p>
+                  <hi>That he is called</hi> the Saviour of the World.<note place="margin">Ioh: 4.42.</note>
+               </p>
+               <p>
+                  <hi>That he is called</hi> our Mediater, and Advocate.<note place="margin">1 Tim: 2 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 1 Ioh: 2.2.</note>
+               </p>
+               <pb n="78" facs="tcp:115001:47"/>
+               <p>
+                  <hi>Remember the Name of the Holy Spirit.</hi>
+               </p>
+               <p>
+                  <hi>That he is called</hi> a Comforter.<note place="margin">Ioh 16.7.</note>
+               </p>
+               <p>Help us therefore ô God of our ſal<g ref="char:EOLhyphen"/>vation,<note place="margin">Pſal. 7<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.9.</note> for the glory of thy Name, Oh deliver us and be mercifull to our ſins, for thy Names Sake.</p>
+               <p>We are called by thy Name,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 4.9.</note> ô Lord, leave us not.</p>
+               <p>
+                  <hi>Remember ô Lord,</hi> thy Promiſe.</p>
+               <p>That if a ſinner repent, and turne from his tranſgreſſions,<note place="margin">Ezek. 18.30.</note> his iniquity ſhall not be his ruine.</p>
+               <p>That when we call upon thee,<note place="margin">Pſal 50.15.</note> in time of trouble, thou wilt deliver us.</p>
+               <p>Lord,<note place="margin">Pſal 86.7.10<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </note> we call upon thee, in a day of trouble. Hide not thy face from us in the day of trouble, encline thine eare unto us in the day when we call: anſwer us ſpeedily.</p>
+               <p>
+                  <hi>Remember Lord that we are the work of thine hands.</hi>
+               </p>
+               <p>Thou art our Father:<note place="margin">Eſa. 64.8.</note> We are the
+<pb n="79" facs="tcp:115001:47"/>clay, and thou the Potter, and we are all the worke of thy hands.</p>
+               <p>Be not wrath very ſore ô Lord: nei<g ref="char:EOLhyphen"/>ther remember iniquity for ever: Be<g ref="char:EOLhyphen"/>hold, ſee we beſeech thee, we are all thy people.</p>
+               <p>Forſake not ô Lord the worke of thine owne hands.<note place="margin">Pſ. 138.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>
+                  <hi>And we are not only</hi> thy handi<g ref="char:EOLhyphen"/>worke,<note place="margin">Gen. 1.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. Col 3 <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> but the Image of thy Coun<g ref="char:EOLhyphen"/>tenance. <hi>Deface it not ô Lord.</hi>
+               </p>
+               <p>
+                  <hi>We are</hi> Members of thy Myſticall Body.<note place="margin">1 Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>15.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 1.27.</note> 
+                  <hi>O Lord we beſeech thee cut us not off.</hi>
+               </p>
+               <p>We are the price of thy Sonnes Blood.<note place="margin">1 Cor 6 20. 1 Pet. 1.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9.</note> We are bought with a price. We were not redeemed with ſilver and gold, but with the pretious blood of Christ, as of a Lamb, without blemiſh, and without spot. <hi>O Lord undervalue it not.</hi>
+               </p>
+               <p>Thou ô Lord haſt an especiall pro<g ref="char:EOLhyphen"/>perty in us,<note place="margin">Pſ 119.94. 1 6 16.</note> 
+                  <hi>caſt us not off.</hi> We are thine, ô ſave us. We are thy ſervants.<note place="margin">Eſa. 64.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> We are all thy people.<note place="margin">Mar 4.38. Eſa. 63.16.</note> Lord careſt thou not that we periſh? Though we be undutifull children, yet are we thy Children. Doubtleſſe thou art our Father. Thou art our Father ô Lord.
+<pb n="80" facs="tcp:115001:48"/>
+                  <hi>Though wee have loſt the duty of children,</hi>
+                  <note place="margin">Aug.</note> 
+                  <hi>yet thou haſt not loſt the love of a Father.</hi>
+               </p>
+               <p>
+                  <hi>Behold ô Lord we repent of our backſlidings.</hi>
+               </p>
+               <p>Sorrow is continually before us for them.<note place="margin">Iſa: 38.17.18</note> We confeſſe our wickedneſſe, and are <hi>heartily</hi> ſorry for them, <hi>and cry,</hi>
+                  <note place="margin">Lam: 5:16.</note> woe unto us that we have ſinned. <hi>And we know that</hi> a broken spirit, is a ſacrifice to thee;<note place="margin">Pſal: 51:19.</note> a broken and con<g ref="char:EOLhyphen"/>trite heart ô Lord, thou wilt not deſ<g ref="char:EOLhyphen"/>piſe.</p>
+               <p>
+                  <hi>It hath bin thy practiſe to ſhew mercy.</hi>
+               </p>
+               <p>Call to remembrance ô Lord,<note place="margin">Pſal: 25:5.</note> thy tender mercies, and thy loving kind<g ref="char:EOLhyphen"/>neſſe, which have bin ever of old.</p>
+               <p>Thou haſt bin our refuge from one ge<g ref="char:EOLhyphen"/>neration to another.<note place="margin">90:1</note> 
+                  <hi>And we humbly pray thee, that as,</hi> thou hast bin our ſuccour,<note place="margin">27:11.</note> leave us not now, neither for<g ref="char:EOLhyphen"/>ſake us ô God of our ſalvation. <hi>But rather,</hi>
+                  <note place="margin">80:3.</note> turne us againe ô God, ſhew the light of thy countenance, and we
+<pb n="81" facs="tcp:115001:48"/>ſhall be whole.</p>
+               <p>Turne us ô God our Saviour,<note place="margin">85.4.</note> and let thine anger ceaſe from us.</p>
+               <p>Shew ſome good token upon us for good,<note place="margin">86:17.</note> that they which hate us may ſee it, and be aſhamed becauſe thou Lord hast holpen and comfortea us.</p>
+               <p>O ſatisfie us with thy Mercy,<note place="margin">90:14.</note> and that ſoone, ſo ſhall we reioyce, and be glad, all the dayes of our life.</p>
+               <p>In the multitude of the ſorrowes that are in our hearts, let thy comforts ô Lord refreſh our ſoules.</p>
+            </div>
+            <div type="prayer">
+               <head>Another.</head>
+               <p>Have mercy upon us ô God,<note place="margin">Pſal: 51:<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> after thy great goodneſſe, according to the multitude of thy mercies, doe away our offences.</p>
+               <p>For we acknowled our faults;<note place="margin">3.</note> and our ſin is ever againſt us.</p>
+               <p>Againſt thee only ô Lord have we ſinned,<note place="margin">4.</note> and done much evill in thy ſight.</p>
+               <p>Behold, we were ſhapen in wicked<g ref="char:EOLhyphen"/>neſſe,<note place="margin">5.</note>
+                  <pb n="82" facs="tcp:115001:49"/>and in ſinne did our mothers con<g ref="char:EOLhyphen"/>ceive us.</p>
+               <p>
+                  <hi>O Lord we confeſſe,</hi>
+                  <note place="margin">78 11.12.</note> that we have not kept the Covenant of thee our God, nor walked in thy Law: but forgate what thou haſt done for us, and the wonderfull workes that thou haſt ſhew<g ref="char:EOLhyphen"/>ed for us.</p>
+               <p>We have ſinned with our Fathers,<note place="margin">106.6.</note> we have committed iniquity, and we have done wickedly.</p>
+               <p>Our ſinnes are gone over our heads,<note place="margin">38.4.</note> and are as an heavy burden, too heavy for us to beare.</p>
+               <p>O Lord we have not hearkned unto thee,<note place="margin">Lev. 26 15.17.</note> nor done thy Commandements, but bave deſpiſed thy Statutes, and our ſoules have abhorred thy Judgements. therefore haſt thou ſet thy face againſt us,<note place="margin">25.</note> and brought the ſword upon us, to avenge the quarrell of thy Cove<g ref="char:EOLhyphen"/>nant.</p>
+               <p>Thou haſt whetted thy ſword,<note place="margin">Pſal. 17.13.14.</note> and bent thy bow, and made it ready. Thou haſt prepared for us inſtruments of death.</p>
+               <p>The ſorrowes of death and deſtru<g ref="char:EOLhyphen"/>ction compaſſe us,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6.3.</note> and we have found
+<pb n="83" facs="tcp:115001:49"/>ſorrow, and trouble.</p>
+               <p>We are full of confuſion,<note place="margin">Iob 10.15.</note> there<g ref="char:EOLhyphen"/>fore, O Lord, looke upon our afflicti<g ref="char:EOLhyphen"/>on.</p>
+               <p>Thou reneweſt thy plagues againſt us,<note place="margin">37</note> and encreaſeſt thine indignation upon us. Changes, and warre are a<g ref="char:EOLhyphen"/>gainſt us.</p>
+               <p>Thou haſt kindled thy wrath a<g ref="char:EOLhyphen"/>gainſt us,<note place="margin">19.13.</note> and accounted us as thine enemies.</p>
+               <p>The dayes of affliction take hold of us.<note place="margin">30.15, 31.</note> Our Harpe is turned to mourning, and our Organ into the voyce of them that weepe.</p>
+               <p>
+                  <hi>And in theſe our miſeries,</hi> thou haſt covered thy ſelfe with a cloud,<note place="margin">Lam. 3 44.47.</note> that our prayer ſhould not paſſe through, ſo that feeare and a ſnare is come upon us, deſolation and deſtructi<g ref="char:EOLhyphen"/>on.</p>
+               <p>How long, O Lord, wilt thou forget us, O Lord, for ever?<note place="margin">Pſ 13.1,</note> How long wilt thou hide thy face from us?</p>
+               <p>Wherefore hideſt thou thy face,<note place="margin">44.26.</note> and forgetteſt our miſerie and trou<g ref="char:EOLhyphen"/>ble?</p>
+               <pb n="84" facs="tcp:115001:50"/>
+               <p>Thou makeſt us to be rebuked of our Neighbours,<note place="margin">14.</note> and to be laugh<g ref="char:EOLhyphen"/>ed to ſcorne, and to be had in de<g ref="char:EOLhyphen"/>riſion of them that are round about us.</p>
+               <p>Thine Arrowes ſticke faſt in us,<note place="margin">18.2.</note> and thy hand preſſeth us ſore.</p>
+               <p>Wee are brought to ſo great mi<g ref="char:EOLhyphen"/>ſery,<note place="margin">6.</note> that wee goe mourning, all the day long.</p>
+               <p>Our hearts are diſquieted within us,<note place="margin">55.4.</note> and the feare of death is fallen up<g ref="char:EOLhyphen"/>on us.</p>
+               <p>O Lord,<note place="margin">60.2.</note> thou hast moved the Land, and divided it, heale the ſores therof, for it ſhaketh.</p>
+               <p>Thou haſt ſhewed thy people heavy things,<note place="margin">3.</note> thou haſt given us a drinke of deadly wine.</p>
+               <p>Lord take away this plague <hi>(of warre)</hi> from us,<note place="margin">39.11.</note> elſe wee ſhall be conſumed, by meanes of thy heavy hand.</p>
+               <p>Turne thee unto us, and have mercy upon us,<note place="margin">25 15.</note> for we are deſolate and in miſery.</p>
+               <p>Looke upon all our adverſity,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7</note> and for<g ref="char:EOLhyphen"/>give
+<pb n="85" facs="tcp:115001:50"/>us all our ſin.</p>
+               <p>Oh breake not leave;<note place="margin">Iob 13.25.</note> driven to and fro, neither purſue dry ſtubble.</p>
+               <p>Write not bitter things againſt us.<note place="margin">26.</note>
+               </p>
+               <p>What profit is there in our blood,<note place="margin">Pſal: 30.9.10</note> when we goe downe unto the pie? Shall the duſt give thanks to thee, or ſhall it declare thy truth?</p>
+               <p>Doeſt thou ſhew wonders among the dead,<note place="margin">88.10,</note> or ſhall the dead riſe up a<g ref="char:EOLhyphen"/>gain, and praiſe thee?</p>
+               <p>Oh let us live,<note place="margin">119:75. Eſa 38.19.</note> and wee ſhall praiſe thee. The living, the living, they ſhall praiſe thee.</p>
+               <p>Lord thou knoweſt our deſire,<note place="margin">Pſal: 38 9,</note> and our groaning is not hid from thee.</p>
+               <p>Lord, where are thy former loving kindneſſes?<note place="margin">89.4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+               </p>
+               <p>Our Fathers hoped in thee, they truſt<g ref="char:EOLhyphen"/>ed in thee,<note place="margin">22.9.</note> and thou didſt deliver them.</p>
+               <p>They called upon thee,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> and were holpen, they put their truſt in thee, and were not confounded.</p>
+               <p>Lord lift thou up the light of thy coun<g ref="char:EOLhyphen"/>tenance upon us <hi>alſo.</hi>
+                  <note place="margin">4.6.</note>
+               </p>
+               <p>Hide not thy face from thy ſervants,<note place="margin">6<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.17.</note> for we are in trouble; O haſt thee and heare us.</p>
+               <pb n="86" facs="tcp:115001:51"/>
+               <p>Heare us O God,<note place="margin">Pſa. 69: 14.</note> in the multitude of thy mercy, even in the truth of thy Salvation.</p>
+               <p>Our helpe ſtandeth in the Name of the Lord,<note place="margin">124.8.</note> which hath made Heaven and Earth.</p>
+               <p>Thou onely art our helper and re<g ref="char:EOLhyphen"/>deemer,<note place="margin">70.6.</note> make no long tarrying O God.</p>
+               <p>Ariſe,<note place="margin">41.26.</note> and help us, for thy mercy ſake.</p>
+               <p>Bring our ſoules out of trouble,<note place="margin">143.11.</note> for thy righteouſneſſe ſake.</p>
+               <p>And while wee live,<note place="margin">246.1.</note> wee will praiſe thee; yea, as long as we have any being, we will ſing praiſes, to thee our God.</p>
+            </div>
+            <div type="prayer">
+               <head>Another.</head>
+               <p>OH Almighty God, and moſt mercifull Father in Jeſus Chriſt our Lord, behold I beſeech thee, me thy moſt unworthy ſer<g ref="char:EOLhyphen"/>vant, proſtrating my ſoule and bo<g ref="char:EOLhyphen"/>dy, before the foot-ſtoole of thy
+<pb n="87" facs="tcp:115001:51"/>Throne of Grace, with Faſting, Teares, and humble ſupplications, on the behalfe of the diſtracted, diſtreſſed and diſconſolate eſtate of thy dejected Spouſe, the Church, and the miſerable condi<g ref="char:EOLhyphen"/>tion of theſe thy Kingdomes: both which without thy preſent ſuc<g ref="char:EOLhyphen"/>cour and reliefe, are like to fall into utter deſolation.</p>
+               <p>I acknowledge ô Lord, with hearty and unfained ſorrow and griefe of ſoule, that the great and horrid ſinnes of this Land in ge<g ref="char:EOLhyphen"/>nerall, and of my owne in parti<g ref="char:EOLhyphen"/>cular, have aſcended into thy pre<g ref="char:EOLhyphen"/>ſence, and called for vengeance, and are the chiefe cauſe of this heavy judgement now upon us; that thy judgements are juſt, in afflicting this Nation: that wee have by our manifold and heinous ſinnes, deſerved all the puniſh<g ref="char:EOLhyphen"/>ments,<note place="margin">Pſ 119 137. Deut. 25.15, &amp;c.</note> which thy Law hath threatned againſt them that are diſobedient to thy Commande<g ref="char:EOLhyphen"/>ments. And laſtly, that by our ingratitude to thee for all thy
+<pb n="88" facs="tcp:115001:52"/>bleſſings, wee have juſtly fallen from ſo happy and glorious an e<g ref="char:EOLhyphen"/>ſtate, as hath been admired by our friends, and envied by our ene<g ref="char:EOLhyphen"/>mies, into ſo wretched a conditi<g ref="char:EOLhyphen"/>on, as cannot but be pitied by them both.</p>
+               <p>Wherefore O Lord, I humbly pray thee to behold me, an un<g ref="char:EOLhyphen"/>worthy ſonne of thy now diſtreſ<g ref="char:EOLhyphen"/>ſed Church, and a weake mem<g ref="char:EOLhyphen"/>ber of thy now diſtracted King<g ref="char:EOLhyphen"/>dome, which thine owne right<g ref="char:EOLhyphen"/>hand hath planted, who in the bitterneſſe of my ſoule, and griefe of heart, in the name and media<g ref="char:EOLhyphen"/>tion, and for the merits of thy bleſſed Sonne, humbly preſent my prayers, ſupplications and interceſſi<g ref="char:EOLhyphen"/>ons for them.</p>
+               <p>
+                  <hi>Heare my Prayer O Lord,</hi>
+                  <note place="margin">Pſal: 55 1.</note> 
+                  <hi>and hide not thy ſelfe from my Petiti<g ref="char:EOLhyphen"/>on.</hi>
+               </p>
+               <p>
+                  <hi>Bow downe thine eare and ſave us,</hi>
+                  <note place="margin">33.13.</note> 
+                  <hi>haſte thee, O Lord, to deliver us.</hi>
+               </p>
+               <p>
+                  <hi>O be not farre from us,</hi>
+                  <note place="margin">22.11.</note> 
+                  <hi>for trou<g ref="char:EOLhyphen"/>ble is hard at hand, and there is none
+<pb n="89" facs="tcp:115001:52"/>beſides thee to help us. <g ref="char:V">Ʋ</g>aine is the help of man.</hi>
+                  <note place="margin">62.11.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.5.</note>
+               </p>
+               <p>
+                  <hi>Eearefullneſſe and trembling are fallen upon us, and an horrible dread hath over-whelmed us.</hi>
+               </p>
+               <p>
+                  <hi>O be favourable O Lord, unto Sion</hi> (thy Church) <hi>build thou up up the walls of</hi> Jeruſalem,<note place="margin">51 18,</note> and re<g ref="char:EOLhyphen"/>ſtore peace to this diſtracted Kingdome, and reconcile all un<g ref="char:EOLhyphen"/>happy differences amongſt us.</p>
+               <p>I poure out theſe my weake Prayers unto thee, O Lord,<note place="margin">86.5, Exo: 34.6.7.</note> know<g ref="char:EOLhyphen"/>ing that <hi>thou art full of compaſſion, good and gracious, and of great mer<g ref="char:EOLhyphen"/>cy, unto all them that call upon thee.</hi>
+               </p>
+               <p>
+                  <hi>That thou art mercifull and gracious, long-ſuffering; keeping mercy for thouſand;, for giving iniquity, tranſ<g ref="char:EOLhyphen"/>greſſion and ſinne.</hi>
+                  <note place="margin">Abae 3 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1 Eſa. 30.18.</note>
+               </p>
+               <p>
+                  <hi>That in thy wrath thou remembreſt mercy, and that thou waiteſt</hi> (an oppor<g ref="char:EOLhyphen"/>tunity) <hi>to begracious to thy people.</hi>
+               </p>
+               <p>Be pleaſed therefore, O Lord, to extend this thy accuſtomed pi<g ref="char:EOLhyphen"/>ty and compaſſion towards us, that we which are now under thy heavy hand, and ready to pe<g ref="char:EOLhyphen"/>riſh
+<pb n="90" facs="tcp:115001:53"/>by the Sword, and civill diffentions, may by thy omnipo<g ref="char:EOLhyphen"/>tent goodneſſe, mercifully be de<g ref="char:EOLhyphen"/>livered and freed from it. <hi>Haſte thee,</hi>
+                  <note place="margin">Pſ: 70.1.</note> 
+                  <hi>O LORD, to deliver us, make haſte to helpe us, O GOD. Thou onely art our helper and re<g ref="char:EOLhyphen"/>deemer,</hi>
+                  <note place="margin">40.21.</note> 
+                  <hi>make no long tarying, O GOD.</hi>
+               </p>
+               <p>And thou O Lord, that art the God of Peace, who onely by thy mighty power, canſt cauſe the Sword to be ſheathed againe, put thy <hi>hooke</hi> into their noſtrills, that indeavour to diſturbe the peace of this our <hi>Iſrael.</hi>
+                  <note place="margin">Pſ: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8.3.</note> 
+                  <hi>Reword thou them according to their deeds, and according to the wickedneſſe of their inventions.</hi>
+                  <note place="margin">4.5.</note> 
+                  <hi>Recompence them, after the worke of their hands, pay them that they have deſer<g ref="char:EOLhyphen"/>ved.</hi>
+               </p>
+               <p>Give peace in our dayes, O Lord, and unite the affections of our gracious King and his people, give a good and right underſtan<g ref="char:EOLhyphen"/>ding betweene them: <hi>That upon himſelfe his Crowne way flouriſh;
+<pb n="91" facs="tcp:115001:53"/>that he may have peace on all ſides,</hi>
+                  <note place="margin">132.19. 1 Reg: 4.25.</note> 
+                  <hi>round about him.</hi> And that all we his people may dwell ſafe<g ref="char:EOLhyphen"/>ly, every man under his <hi>
+                     <g ref="char:V">Ʋ</g>ine,</hi> and under his <hi>Fig-tree.</hi>
+               </p>
+               <p>This humble Petition if thou ſhalt be pleaſed to grant, it will not onely breed aſtoniſhment and wonder, in all that caſt their eyes upon us, which expect our preſent ruine and confuſion; but it will alſo redound to the exaltation of the glory of thy Name, and to the comfort of thy poore dejected peo<g ref="char:EOLhyphen"/>ple. And ſo we ſhall all with one accord,<note place="margin">Pſa: 26 12.</note> 
+                  <hi>bleſſe thee in the great Con<g ref="char:EOLhyphen"/>gregation,</hi> and ſing that ſweet <hi>An<g ref="char:EOLhyphen"/>theme</hi> of thy bleſſed Angels,<note place="margin">Luc: 2.14.</note> 
+                  <hi>Glory to God in the higheſt, peace in Earth, and towards men good-will.</hi>
+               </p>
+               <p>Grant it therefore, O good God, for the merits of thy bleſſed ſonne Chriſt Jeſus, our only Lord and Sa<g ref="char:EOLhyphen"/>viour. <hi>Amen.</hi>
+               </p>
+               <trailer>Sat, ſi ſeriò.</trailer>
+               <pb facs="tcp:115001:54"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
